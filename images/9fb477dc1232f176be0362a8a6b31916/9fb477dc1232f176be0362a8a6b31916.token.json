@@ -1,0 +1,54 @@
+{
+    "id": "9fb477dc1232f176be0362a8a6b31916",
+    "title": "Futuristic Tribe Warrior and Alien Rhino in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic tribe warrior mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+    "created": "2024-12-03 18:15:56.167080",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic tribe warrior mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+        "id": "6cb44b9086eccb44561655ae8cfdc370",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic tribe warrior mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.554459",
+        "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Tribe Warrior and Alien Rhino in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-GkG7cnE1mSViCZ2Z95mV6JMk.png?st=2024-12-03T17%3A15%3A50Z&se=2024-12-03T19%3A15%3A50Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A14%3A12Z&ske=2024-12-04T00%3A14%3A12Z&sks=b&skv=2024-08-04&sig=LaGBup%2BfM5hiDgwBwO4QeXUcc1D1UoxzOGy3lJayx3k%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/9fb477dc1232f176be0362a8a6b31916/9fb477dc1232f176be0362a8a6b31916.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Lunar Thunderclaw",
+    "symbol": "9FB477DC1",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/9fb477dc1232f176be0362a8a6b31916/9fb477dc1232f176be0362a8a6b31916.jpg?raw=true"
+}
