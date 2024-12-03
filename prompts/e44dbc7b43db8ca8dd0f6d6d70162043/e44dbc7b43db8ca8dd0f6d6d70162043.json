@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic forest",
+    "id": "e44dbc7b43db8ca8dd0f6d6d70162043",
+    "prompt_history": [
+        "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic forest"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:05.841119",
+    "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic forest",
+    "metadata": {
+        "element": "tribe warrior",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "forest",
+        "animal": "horse",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Alien Tribe Warrior of the Futuristic Forest"
+}
