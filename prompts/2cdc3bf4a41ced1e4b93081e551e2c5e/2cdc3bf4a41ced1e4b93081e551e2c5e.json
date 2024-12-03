@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli against the backdrop of a futuristic waterfall",
+    "id": "2cdc3bf4a41ced1e4b93081e551e2c5e",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli against the backdrop of a futuristic waterfall"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:05.634045",
+    "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli against the backdrop of a futuristic waterfall",
+    "metadata": {
+        "element": "tribe chief",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "waterfall",
+        "animal": "horse",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Tribe Chief by the Waterfall"
+}
