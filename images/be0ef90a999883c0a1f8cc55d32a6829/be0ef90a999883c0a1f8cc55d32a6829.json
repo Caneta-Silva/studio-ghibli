@@ -1,0 +1,51 @@
+{
+    "id": "be0ef90a999883c0a1f8cc55d32a6829",
+    "title": "Futuristic Tribe Chief Riding an Alien Deer in Desert Oasis",
+    "description": "Create a landscape full body image of a futuristic tribe chief mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+    "created": "2024-12-03 16:39:40.012905",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic tribe chief mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+        "id": "bd6981a12f5c385da4d0c33af02ce6f9",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic tribe chief mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien desert"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.573306",
+        "seed_prompt": "Create a landscape full body image of a futuristic tribe chief mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Tribe Chief Riding an Alien Deer in Desert Oasis"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-ZmcvgDHXjE1mh0Mz3rd7VDHH.png?st=2024-12-03T15%3A39%3A34Z&se=2024-12-03T17%3A39%3A34Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A20%3A16Z&ske=2024-12-04T00%3A20%3A16Z&sks=b&skv=2024-08-04&sig=jpHDilJ1Jw%2Bncnx%2B%2B69k6ngFTkmQxiGS%2BQPyXwraENM%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/be0ef90a999883c0a1f8cc55d32a6829/be0ef90a999883c0a1f8cc55d32a6829.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
