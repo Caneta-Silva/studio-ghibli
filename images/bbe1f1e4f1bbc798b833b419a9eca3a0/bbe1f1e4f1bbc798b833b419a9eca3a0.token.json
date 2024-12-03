@@ -1,11 +1,11 @@
 {
     "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
-    "title": "Futuristic Riot Police Robot in Studio Ghibli Style",
+    "title": "Cybernetic Defender in a Ghibli Landscape",
     "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-    "created": "2024-12-02 22:30:41.639102",
+    "created": "2024-12-03 13:49:42.770644",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-        "id": "cc95fcc3c2a72044f3e3ef6df5647b64",
+        "id": "a1b67397094226dd1ea4e3ecf57f3536",
         "prompt_history": [
             "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-02 00:59:05.060361",
+        "seeded_at": "2024-12-02 00:59:05.054701",
         "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "elephant",
+            "backdrop": "spaceship",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -40,15 +40,15 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Riot Police Robot in Studio Ghibli Style"
+        "title": "Cybernetic Defender in a Ghibli Landscape"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-c0H8JQHmLrxTc4uI025OON9C.png?st=2024-12-02T21%3A30%3A35Z&se=2024-12-02T23%3A30%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-02T05%3A06%3A18Z&ske=2024-12-03T05%3A06%3A18Z&sks=b&skv=2024-08-04&sig=7x4iaF5bacbBucPIewg9%2B777i93Nf5rrSew9kXDb8Ig%3D",
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-6BaEbwAvVzzRimNpFU81t0Ou.png?st=2024-12-03T12%3A49%3A36Z&se=2024-12-03T14%3A49%3A36Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A23%3A42Z&ske=2024-12-04T00%3A23%3A42Z&sks=b&skv=2024-08-04&sig=YcLQZS79vZ9GakMmvz7IyXtgwBafjxQIlV1sh1fKWzQ%3D",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg?raw=true"
     },
     "tags": [],
     "model_version": "dall-e-2",
-    "name": null,
+    "name": "RiotBuster",
     "symbol": "BBE1F1E4F",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg?raw=true"
 }
