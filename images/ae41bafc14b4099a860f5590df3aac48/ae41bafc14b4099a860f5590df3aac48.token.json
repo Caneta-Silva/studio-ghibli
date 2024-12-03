@@ -1,0 +1,54 @@
+{
+    "id": "ae41bafc14b4099a860f5590df3aac48",
+    "title": "Whimsical Alien Medic in Studio Ghibli Style Landscape",
+    "description": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
+    "created": "2024-12-03 18:14:05.425011",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
+        "id": "e52cc3ec7ae79da893c6c4dd6e2786c6",
+        "prompt_history": [
+            "Create a landscape full body image of a alien medic in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.333099",
+        "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Whimsical Alien Medic in Studio Ghibli Style Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-fhSa5c6UU3OLrXOZHdZcwLnk.png?st=2024-12-03T17%3A13%3A59Z&se=2024-12-03T19%3A13%3A59Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A24%3A11Z&ske=2024-12-04T00%3A24%3A11Z&sks=b&skv=2024-08-04&sig=WDiXz4HFKz3cO0pWpVZBYqReiISkFWOL16Xfxfi/Slw%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Lumina Mender",
+    "symbol": "AE41BAFC1",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg?raw=true"
+}
