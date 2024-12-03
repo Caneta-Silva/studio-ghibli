@@ -1,0 +1,54 @@
+{
+    "id": "78b0e68c2bbbecb089d34b7132f109c7",
+    "title": "Emperor of the Futuristic Desert",
+    "description": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli against the backdrop of a futuristic desert landscape",
+    "created": "2024-12-03 13:51:50.017869",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli against the backdrop of a futuristic desert landscape",
+        "id": "0fce6f08cfcd5a78ef47c14136dc4284",
+        "prompt_history": [
+            "Create a landscape full body image of a alien emperor in the style of Studio Ghibli against the backdrop of a futuristic desert landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.888147",
+        "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli against the backdrop of a futuristic desert landscape",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Emperor of the Futuristic Desert"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-6bvIxL6Y9p0XObWl07XCXvfr.png?st=2024-12-03T12%3A51%3A42Z&se=2024-12-03T14%3A51%3A42Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A12%3A31Z&ske=2024-12-04T00%3A12%3A31Z&sks=b&skv=2024-08-04&sig=saJl%2BbH2oLLjhVEshPCnPDSICqrkygeblaWI%2BDSOi1w%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/78b0e68c2bbbecb089d34b7132f109c7/78b0e68c2bbbecb089d34b7132f109c7.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Galactic Sovereign",
+    "symbol": "78B0E68C2",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/78b0e68c2bbbecb089d34b7132f109c7/78b0e68c2bbbecb089d34b7132f109c7.jpg?raw=true"
+}
