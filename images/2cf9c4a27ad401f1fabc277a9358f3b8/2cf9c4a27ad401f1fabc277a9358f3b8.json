@@ -1,0 +1,51 @@
+{
+    "id": "2cf9c4a27ad401f1fabc277a9358f3b8",
+    "title": "Alien Medic in the Enchanted Alien Forest",
+    "description": "Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a alien forest",
+    "created": "2024-12-03 16:41:36.301528",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a alien forest",
+        "id": "1123ee87950da9e5a41b998658868567",
+        "prompt_history": [
+            "Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a alien forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.945381",
+        "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a alien forest",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Medic in the Enchanted Alien Forest"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-y5GC79kRVj6oL8DERWpxYJzh.png?st=2024-12-03T15%3A41%3A30Z&se=2024-12-03T17%3A41%3A30Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A35%3A57Z&ske=2024-12-04T00%3A35%3A57Z&sks=b&skv=2024-08-04&sig=BOlY3xd7r3Qn82scOmouQ8aQHekcF1fwZyiImT4Tf/o%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/2cf9c4a27ad401f1fabc277a9358f3b8/2cf9c4a27ad401f1fabc277a9358f3b8.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
