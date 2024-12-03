@@ -1,0 +1,51 @@
+{
+    "id": "137d48ae3dab24f02c9eb9ae42300e5a",
+    "title": "Guardian of the Alien Desert",
+    "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+    "created": "2024-12-03 15:51:46.245557",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+        "id": "416155be38123632023f6dc217fe406f",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli against the backdrop of a futuristic alien desert"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.587713",
+        "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Guardian of the Alien Desert"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-wLG1VIeQUJB37rcnDzcdPcys.png?st=2024-12-03T14%3A51%3A39Z&se=2024-12-03T16%3A51%3A39Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A12%3A30Z&ske=2024-12-04T00%3A12%3A30Z&sks=b&skv=2024-08-04&sig=O95RT11EDD65o9MAJxlI1Uv3WAwo0uTzKrD0vEZz9%2B4%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/137d48ae3dab24f02c9eb9ae42300e5a/137d48ae3dab24f02c9eb9ae42300e5a.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
