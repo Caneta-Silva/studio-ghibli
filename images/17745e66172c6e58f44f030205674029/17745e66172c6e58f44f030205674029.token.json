@@ -1,0 +1,54 @@
+{
+    "id": "17745e66172c6e58f44f030205674029",
+    "title": "Emperor of the Alien Realm: A Studio Ghibli Inspired Scene",
+    "description": "Create a landscape full body image of a alien emperor mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+    "created": "2024-12-04 14:45:44.368299",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien emperor mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+        "id": "3fef0476427cad30a5ab52d7c79caab9",
+        "prompt_history": [
+            "Create a landscape full body image of a alien emperor mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.775600",
+        "seed_prompt": "Create a landscape full body image of a alien emperor mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Emperor of the Alien Realm: A Studio Ghibli Inspired Scene"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-IODl87BvPE8kactebuyapQg8.png?st=2024-12-04T13%3A45%3A37Z&se=2024-12-04T15%3A45%3A37Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T00%3A18%3A52Z&ske=2024-12-05T00%3A18%3A52Z&sks=b&skv=2024-08-04&sig=ZzAxKswArsUw2a0o5PCDs9tEibqSo3QNxnfKgLplvqc%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/17745e66172c6e58f44f030205674029/17745e66172c6e58f44f030205674029.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Galactic Sovereign Rider",
+    "symbol": "17745E661",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/17745e66172c6e58f44f030205674029/17745e66172c6e58f44f030205674029.jpg?raw=true"
+}
