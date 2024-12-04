@@ -191,6 +191,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 910654802183cd09c63bc714ed0dbeb5 
+
+![data.id](./910654802183cd09c63bc714ed0dbeb5/910654802183cd09c63bc714ed0dbeb5.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 910654802183cd09c63bc714ed0dbeb5                                                                                                             |
+| **Title**           | Galactic Enforcers: The Peacekeeping Robot                                                                                                       |
+| **Description**           | Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli                                                                                                       |
+| **CreatedAt**        | 2024-12-04 15:23:17.073637                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-WFSwLCcv5rk73OANV23C803d.png?st=2024-12-04T14%3A23%3A08Z&se=2024-12-04T16%3A23%3A08Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T00%3A22%3A22Z&ske=2024-12-05T00%3A22%3A22Z&sks=b&skv=2024-08-04&sig=TQxbyfr7bFZFeeNmSMKfHNGf3HsyWVnLPhiKtetQZ2c%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/910654802183cd09c63bc714ed0dbeb5/910654802183cd09c63bc714ed0dbeb5.jpg?raw=true)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 fca5a61b1130a6a6566d1ff532756c04
+
+> Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | fca5a61b1130a6a6566d1ff532756c04                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
 ### 📷 9d4e8cfc6750ee90e8224f933f6631c3 
 
 ![data.id](./9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg)
