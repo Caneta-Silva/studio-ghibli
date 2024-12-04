@@ -1,0 +1,54 @@
+{
+    "id": "56491f1350201156953cd3219b1f5074",
+    "title": "Futuristic Alien Police Patrol",
+    "description": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+    "created": "2024-12-04 15:18:52.726348",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+        "id": "e3546f4d37b5fac7afde6f6962daeb3a",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:06.096109",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Police Patrol"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-KQvfrvFkEJO7tImulh3KAIDC.png?st=2024-12-04T14%3A18%3A46Z&se=2024-12-04T16%3A18%3A46Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T00%3A17%3A54Z&ske=2024-12-05T00%3A17%3A54Z&sks=b&skv=2024-08-04&sig=JqG7jhObw4vd6ygnMIE4abqfczRfD6/PIQ5qo19Ll%2Bw%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/56491f1350201156953cd3219b1f5074/56491f1350201156953cd3219b1f5074.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Galactic Sentinel",
+    "symbol": "56491F135",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/56491f1350201156953cd3219b1f5074/56491f1350201156953cd3219b1f5074.jpg?raw=true"
+}
