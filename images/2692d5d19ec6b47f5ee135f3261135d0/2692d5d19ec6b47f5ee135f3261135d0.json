@@ -1,11 +1,11 @@
 {
     "id": "2692d5d19ec6b47f5ee135f3261135d0",
-    "title": "Alien Paladin Military in Studio Ghibli Style",
+    "title": "Studio Ghibli-Inspired Alien Paladin Military",
     "description": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
-    "created": "2024-12-03 12:38:17.970710",
+    "created": "2024-12-04 18:34:39.117533",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
-        "id": "a7ae984654d9aeee4463350ab3841585",
+        "id": "c19eec1c57ef5e81d02bdf11fba7ca8c",
         "prompt_history": [
             "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-02 00:59:05.198910",
+        "seeded_at": "2024-12-02 00:59:05.198340",
         "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
-            "animal": "giraffe",
+            "backdrop": "Martial landscape",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
@@ -40,11 +40,11 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Paladin Military in Studio Ghibli Style"
+        "title": "Studio Ghibli-Inspired Alien Paladin Military"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-SCpAFaE8oDgjjhCUff5kNgnL.png?st=2024-12-03T11%3A38%3A11Z&se=2024-12-03T13%3A38%3A11Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A34%3A13Z&ske=2024-12-04T00%3A34%3A13Z&sks=b&skv=2024-08-04&sig=EIhm6QMqBj8IxfB43UKPvCJFo7WqH%2BoMPGz7gkyMPC0%3D",
-        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg?raw=true"
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-jD4bUIcwa6HhYQJwrk1sVFqc.png?st=2024-12-04T17%3A34%3A33Z&se=2024-12-04T19%3A34%3A33Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T00%3A15%3A16Z&ske=2024-12-05T00%3A15%3A16Z&sks=b&skv=2024-08-04&sig=50fP7F4XB0oVWY1sq2OlhXwnHpqQ8mIu/4/F6Xvpz2c%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg"
     },
     "tags": [],
     "model_version": "dall-e-2"
