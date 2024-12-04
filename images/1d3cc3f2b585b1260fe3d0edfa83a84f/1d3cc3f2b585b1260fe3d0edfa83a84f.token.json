@@ -1,0 +1,54 @@
+{
+    "id": "1d3cc3f2b585b1260fe3d0edfa83a84f",
+    "title": "Emperor of the Futuristic Forest",
+    "description": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli against the backdrop of a futuristic forest",
+    "created": "2024-12-04 16:33:36.212800",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli against the backdrop of a futuristic forest",
+        "id": "1d85e56840be3ce432474b57d0cdaded",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli against the backdrop of a futuristic forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.716835",
+        "seed_prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli against the backdrop of a futuristic forest",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Emperor of the Futuristic Forest"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-l4NWilEsEFeiaYRpQmvHdvh4.png?st=2024-12-04T15%3A33%3A28Z&se=2024-12-04T17%3A33%3A28Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T00%3A21%3A27Z&ske=2024-12-05T00%3A21%3A27Z&sks=b&skv=2024-08-04&sig=XS4cqSmK9TVDZNuxAw4aIassq02mAFWvbsJCs1FML4E%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/1d3cc3f2b585b1260fe3d0edfa83a84f/1d3cc3f2b585b1260fe3d0edfa83a84f.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Zenith Sovereign",
+    "symbol": "1D3CC3F2B",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/1d3cc3f2b585b1260fe3d0edfa83a84f/1d3cc3f2b585b1260fe3d0edfa83a84f.jpg?raw=true"
+}
