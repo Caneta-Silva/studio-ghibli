@@ -1,11 +1,11 @@
 {
     "id": "f49a4869b1ea0c3e1007278dfdcf568f",
-    "title": "Futuristic Desert Tribe Warrior of the Oasis",
+    "title": "Futuristic Desert Tribe Warrior",
     "description": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
-    "created": "2024-12-03 12:39:45.047977",
+    "created": "2024-12-04 22:41:07.897839",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
-        "id": "9182376eb38304ad9d2ee1e389d3e140",
+        "id": "990eeeed2951f6d5bbefacccb74eb51c",
         "prompt_history": [
             "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-02 00:59:05.061210",
+        "seeded_at": "2024-12-02 00:59:05.066820",
         "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
         "metadata": {
             "element": "desert tribe warrior",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "Martial landscape",
-            "animal": "deer",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -40,11 +40,11 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Desert Tribe Warrior of the Oasis"
+        "title": "Futuristic Desert Tribe Warrior"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-cA3mjj8C1CjvOv8WUG2rYozR.png?st=2024-12-03T11%3A39%3A39Z&se=2024-12-03T13%3A39%3A39Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A12%3A20Z&ske=2024-12-04T00%3A12%3A20Z&sks=b&skv=2024-08-04&sig=EwK%2BicR1mOjqx9AiyKRYLiENt4lNZLsBUgvjaqK9cu8%3D",
-        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/f49a4869b1ea0c3e1007278dfdcf568f/f49a4869b1ea0c3e1007278dfdcf568f.jpg?raw=true"
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-TUplme0nwPM0g8R71SmFZPhR.png?st=2024-12-04T21%3A41%3A02Z&se=2024-12-04T23%3A41%3A02Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T19%3A09%3A33Z&ske=2024-12-05T19%3A09%3A33Z&sks=b&skv=2024-08-04&sig=6%2BvfXLPbZEqU0i6HSlzK4/K2ahJpZkAdujazRoidqqc%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/f49a4869b1ea0c3e1007278dfdcf568f/f49a4869b1ea0c3e1007278dfdcf568f.jpg"
     },
     "tags": [],
     "model_version": "dall-e-2"
