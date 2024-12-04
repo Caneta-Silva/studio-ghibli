@@ -1,0 +1,51 @@
+{
+    "id": "426269b7899433c29f9d402715e80d25",
+    "title": "Alien Medic and Camel in the Alien Tropical Forest",
+    "description": "Create a landscape full body image of a alien medic mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+    "created": "2024-12-04 22:42:11.592959",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien medic mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+        "id": "2feee6179d70dc666efa69896efde279",
+        "prompt_history": [
+            "Create a landscape full body image of a alien medic mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a alien tropical forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.822207",
+        "seed_prompt": "Create a landscape full body image of a alien medic mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Medic and Camel in the Alien Tropical Forest"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-9rz45rGeM7LCZZYodTEGlXLT.png?st=2024-12-04T21%3A42%3A05Z&se=2024-12-04T23%3A42%3A05Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T19%3A48%3A22Z&ske=2024-12-05T19%3A48%3A22Z&sks=b&skv=2024-08-04&sig=XRyJxhzhcYN1L/xILTatW%2B6WwSDx7EzFkS2l0rztIxc%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/426269b7899433c29f9d402715e80d25/426269b7899433c29f9d402715e80d25.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
