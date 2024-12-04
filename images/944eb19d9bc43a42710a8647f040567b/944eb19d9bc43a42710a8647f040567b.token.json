@@ -1,0 +1,54 @@
+{
+    "id": "944eb19d9bc43a42710a8647f040567b",
+    "title": "Desert Nomad Warrior and the Alien Ship",
+    "description": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+    "created": "2024-12-04 20:11:08.961199",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+        "id": "57b1884dc31f47ecb2b12f1b36b46c16",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.609205",
+        "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Desert Nomad Warrior and the Alien Ship"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-VSA9tBXasfZvqGPMKi9ESJJL.png?st=2024-12-04T19%3A11%3A02Z&se=2024-12-04T21%3A11%3A02Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T19%3A36%3A24Z&ske=2024-12-05T19%3A36%3A24Z&sks=b&skv=2024-08-04&sig=%2BDKbVBxeEnctgMsZWY5xQ/QgTzeGZ0dLTn5fFQ2gCqY%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/944eb19d9bc43a42710a8647f040567b/944eb19d9bc43a42710a8647f040567b.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Sandstorm Sentinel",
+    "symbol": "944EB19D9",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/944eb19d9bc43a42710a8647f040567b/944eb19d9bc43a42710a8647f040567b.jpg"
+}
