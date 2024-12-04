@@ -1,0 +1,51 @@
+{
+    "id": "6a410f940d9e8e77a00006b45dcf481f",
+    "title": "Futuristic Firefighter in a Studio Ghibli-Inspired Tropical Forest",
+    "description": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+    "created": "2024-12-04 21:16:22.110095",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+        "id": "bbb9194b57d1f774e97839458a632a81",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli against the backdrop of a futuristic tropical forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.753721",
+        "seed_prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Firefighter in a Studio Ghibli-Inspired Tropical Forest"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Gzyr60N6Yf1pCHAuYolvY13R.png?st=2024-12-04T20%3A16%3A15Z&se=2024-12-04T22%3A16%3A15Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T19%3A17%3A36Z&ske=2024-12-05T19%3A17%3A36Z&sks=b&skv=2024-08-04&sig=dqVTwUC2leSOrM%2BbebVo89aLftZK9Dspls51pl3ssJA%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/6a410f940d9e8e77a00006b45dcf481f/6a410f940d9e8e77a00006b45dcf481f.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
