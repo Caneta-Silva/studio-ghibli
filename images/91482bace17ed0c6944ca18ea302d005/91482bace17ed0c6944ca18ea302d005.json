@@ -1,0 +1,51 @@
+{
+    "id": "91482bace17ed0c6944ca18ea302d005",
+    "title": "Futuristic Alien Tribe Warrior in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic desert landscape",
+    "created": "2024-12-04 11:47:44.303879",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic desert landscape",
+        "id": "0fae8a4d8e221c73241dddb2a9838bcd",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic desert landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:06.004550",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic desert landscape",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert landscape",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Tribe Warrior in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-KXEw14Eu1jdCamVgMiMmmHtO.png?st=2024-12-04T10%3A47%3A38Z&se=2024-12-04T12%3A47%3A38Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T01%3A03%3A18Z&ske=2024-12-05T01%3A03%3A18Z&sks=b&skv=2024-08-04&sig=HlovHMoWAg8eLx4YZSa6PEsj2Nm/pJGH6mj1qB6Bv/M%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/91482bace17ed0c6944ca18ea302d005/91482bace17ed0c6944ca18ea302d005.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
