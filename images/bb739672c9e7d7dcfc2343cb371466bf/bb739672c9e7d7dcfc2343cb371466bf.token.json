@@ -1,0 +1,54 @@
+{
+    "id": "bb739672c9e7d7dcfc2343cb371466bf",
+    "title": "Exalted Alien Emperor Riding an Alien Elephant",
+    "description": "Create a landscape full body image of a alien emperor mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a alien Martial landscape",
+    "created": "2024-12-04 15:21:34.040072",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien emperor mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a alien Martial landscape",
+        "id": "260d4a2632d9d019ac96e82463ccedde",
+        "prompt_history": [
+            "Create a landscape full body image of a alien emperor mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a alien Martial landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.769840",
+        "seed_prompt": "Create a landscape full body image of a alien emperor mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a alien Martial landscape",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Exalted Alien Emperor Riding an Alien Elephant"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-GYqHigzFHNNxZ3zbF3rEhpF7.png?st=2024-12-04T14%3A21%3A27Z&se=2024-12-04T16%3A21%3A27Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T00%3A10%3A46Z&ske=2024-12-05T00%3A10%3A46Z&sks=b&skv=2024-08-04&sig=MeZh7d9QWA17Me%2BkC%2BZ91S7RO98c9rMnJaELz4fGQWs%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/bb739672c9e7d7dcfc2343cb371466bf/bb739672c9e7d7dcfc2343cb371466bf.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Zarlon the Conqueror",
+    "symbol": "BB739672C",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/bb739672c9e7d7dcfc2343cb371466bf/bb739672c9e7d7dcfc2343cb371466bf.jpg?raw=true"
+}
