@@ -1,0 +1,51 @@
+{
+    "id": "d4e0b3ed0d3fe111aa4e9b9dba67ede7",
+    "title": "Futuristic Alien Shaman Riding Alien Horse in l Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic alien shaman mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+    "created": "2024-12-04 16:36:38.527686",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien shaman mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+        "id": "ae873e265df313dff9cf941e1396cba0",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien shaman mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien tropical forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.921815",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien shaman mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Shaman Riding Alien Horse in l Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-ZZrJsEefMblZZcntDGQhzpFg.png?st=2024-12-04T15%3A36%3A32Z&se=2024-12-04T17%3A36%3A32Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T00%3A11%3A22Z&ske=2024-12-05T00%3A11%3A22Z&sks=b&skv=2024-08-04&sig=Azp3ZGWfd41j%2B65%2BGhHYtCcFGbQp2AmhcojK0wx%2BC1M%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/d4e0b3ed0d3fe111aa4e9b9dba67ede7/d4e0b3ed0d3fe111aa4e9b9dba67ede7.jpg?raw=true"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
