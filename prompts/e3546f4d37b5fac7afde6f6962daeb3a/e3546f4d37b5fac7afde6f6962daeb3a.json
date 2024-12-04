@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+    "id": "e3546f4d37b5fac7afde6f6962daeb3a",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:06.096109",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+    "metadata": {
+        "element": "police",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "spaceship",
+        "animal": "rhino",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "futuristic alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Alien Police Patrol"
+}
