@@ -607,6 +607,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 b929a7cdb4bc466ad96cd4733754d021 
+
+![data.id](./b929a7cdb4bc466ad96cd4733754d021/b929a7cdb4bc466ad96cd4733754d021.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | b929a7cdb4bc466ad96cd4733754d021                                                                                                             |
+| **Title**           | Warrior of the Alien Tribe                                                                                                       |
+| **Description**           | Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien fortress                                                                                                       |
+| **CreatedAt**        | 2024-12-04 11:48:30.887043                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-vnwcdzfNYXNYYNei6CxkAc4r.png?st=2024-12-04T10%3A48%3A25Z&se=2024-12-04T12%3A48%3A25Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T01%3A00%3A42Z&ske=2024-12-05T01%3A00%3A42Z&sks=b&skv=2024-08-04&sig=1ZK/98kwiJe%2BPhZzBzD0hKHimKMSDskmzRZSA1CBTAc%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/b929a7cdb4bc466ad96cd4733754d021/b929a7cdb4bc466ad96cd4733754d021.jpg?raw=true)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 2779d7bcf09ce02329ff21af57a9ef22
+
+> Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien fortress
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 2779d7bcf09ce02329ff21af57a9ef22                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** tribe warrior <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** giraffe <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
 ### 📷 eb6617f6e205f29b41cc4dc99893058d 
 
 ![data.id](./eb6617f6e205f29b41cc4dc99893058d/eb6617f6e205f29b41cc4dc99893058d.jpg)
