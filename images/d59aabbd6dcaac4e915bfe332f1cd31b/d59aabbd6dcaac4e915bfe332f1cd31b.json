@@ -1,0 +1,51 @@
+{
+    "id": "d59aabbd6dcaac4e915bfe332f1cd31b",
+    "title": "Warrior of the Alien Tribe",
+    "description": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+    "created": "2024-12-04 18:36:53.348310",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+        "id": "49a88ac0225d19d17fdc0b78744dcdf3",
+        "prompt_history": [
+            "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.848848",
+        "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Warrior of the Alien Tribe"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-wfiPCawdcijj2YBS4facJqMd.png?st=2024-12-04T17%3A36%3A47Z&se=2024-12-04T19%3A36%3A47Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T01%3A03%3A00Z&ske=2024-12-05T01%3A03%3A00Z&sks=b&skv=2024-08-04&sig=otroHPZaT02Yb0hcUIRgHbyYMwjosikuuNVWx6%2B4B7Y%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/d59aabbd6dcaac4e915bfe332f1cd31b/d59aabbd6dcaac4e915bfe332f1cd31b.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
