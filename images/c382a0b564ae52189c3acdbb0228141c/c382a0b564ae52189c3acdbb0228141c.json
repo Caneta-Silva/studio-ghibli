@@ -1,0 +1,51 @@
+{
+    "id": "c382a0b564ae52189c3acdbb0228141c",
+    "title": "Futuristic Alien Desert Tribe Warrior Riding an Alien Elephant in a Ghibli Style Landscape",
+    "description": "Create a landscape full body image of a futuristic alien desert tribe warrior mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic alien forest",
+    "created": "2024-12-04 21:14:32.735811",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic alien forest",
+        "id": "e2a4230ca400649df64ec9c980998ef2",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien desert tribe warrior mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic alien forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.878225",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien desert tribe warrior mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic alien forest",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Desert Tribe Warrior Riding an Alien Elephant in a Ghibli Style Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-TFaXqIFSSIEreueOyI3Hxy8a.png?st=2024-12-04T20%3A14%3A26Z&se=2024-12-04T22%3A14%3A26Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T19%3A30%3A48Z&ske=2024-12-05T19%3A30%3A48Z&sks=b&skv=2024-08-04&sig=mkgXr9E8XbLE2i17Qlk9n14RAbBxDIeHTIFPidv%2Bi1w%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/c382a0b564ae52189c3acdbb0228141c/c382a0b564ae52189c3acdbb0228141c.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
