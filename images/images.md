@@ -1599,6 +1599,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 2935d3674fbab073233139ea51aa3105 
+
+![data.id](./2935d3674fbab073233139ea51aa3105/2935d3674fbab073233139ea51aa3105.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 2935d3674fbab073233139ea51aa3105                                                                                                             |
+| **Title**           | Paladin of the Forest: Alien Military                                                                                                       |
+| **Description**           | Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli against the backdrop of a futuristic forest                                                                                                       |
+| **CreatedAt**        | 2024-12-05 16:04:42.177870                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-0VrSGXy4vpk9uOop9QQfdQp0.png?st=2024-12-05T15%3A04%3A35Z&se=2024-12-05T17%3A04%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T08%3A50%3A59Z&ske=2024-12-06T08%3A50%3A59Z&sks=b&skv=2024-08-04&sig=A2dSRPJzcrqjBoJ0DRWco2yrk9tDKNe1VWKbKdKTZgQ%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/2935d3674fbab073233139ea51aa3105/2935d3674fbab073233139ea51aa3105.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 b21f8f9146db9fba7d3c4a10d72933da
+
+> Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli against the backdrop of a futuristic forest
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | b21f8f9146db9fba7d3c4a10d72933da                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** forest <br> **Animal:** rhino <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
 ### 📷 56491f1350201156953cd3219b1f5074 
 
 ![data.id](./56491f1350201156953cd3219b1f5074/56491f1350201156953cd3219b1f5074.jpg)
