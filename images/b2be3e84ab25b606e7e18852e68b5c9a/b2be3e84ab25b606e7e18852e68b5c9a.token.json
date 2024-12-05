@@ -1,0 +1,54 @@
+{
+    "id": "b2be3e84ab25b606e7e18852e68b5c9a",
+    "title": "Warrior of the Alien Desert Tribe - A Studio Ghibli Inspired Masterpiece",
+    "description": "Create a landscape full body image of a alien desert tribe warrior mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+    "created": "2024-12-05 09:57:26.487194",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien desert tribe warrior mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+        "id": "ade207d8112dbccf1889fe655dcf2e4b",
+        "prompt_history": [
+            "Create a landscape full body image of a alien desert tribe warrior mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic tropical forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.700197",
+        "seed_prompt": "Create a landscape full body image of a alien desert tribe warrior mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Warrior of the Alien Desert Tribe - A Studio Ghibli Inspired Masterpiece"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-yTUDA2p3RQg4dVw1ulcVjN4E.png?st=2024-12-05T08%3A57%3A12Z&se=2024-12-05T10%3A57%3A12Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A14%3A50Z&ske=2024-12-06T00%3A14%3A50Z&sks=b&skv=2024-08-04&sig=pGtGBB%2ByR1Owjz2uTF14r4DOOnYKgq83y9KsJiqF0hQ%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/b2be3e84ab25b606e7e18852e68b5c9a/b2be3e84ab25b606e7e18852e68b5c9a.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Xenith Guardian of Verdant Vale",
+    "symbol": "B2BE3E84A",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/b2be3e84ab25b606e7e18852e68b5c9a/b2be3e84ab25b606e7e18852e68b5c9a.jpg"
+}
