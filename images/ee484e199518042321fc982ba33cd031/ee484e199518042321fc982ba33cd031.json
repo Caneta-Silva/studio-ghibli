@@ -1,11 +1,11 @@
 {
     "id": "ee484e199518042321fc982ba33cd031",
-    "title": "Futuristic Alien Riot Police Bot: A Studio Ghibli Inspired Masterpiece",
+    "title": "Futuristic Alien Riot Police Robot in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
-    "created": "2024-12-04 18:35:12.008662",
+    "created": "2024-12-05 09:57:28.619612",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
-        "id": "fa70b3677138380ea3dcd343a64454a9",
+        "id": "5a38f9dc2ea221d7290bf9700ef7a731",
         "prompt_history": [
             "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-02 00:59:05.376853",
+        "seeded_at": "2024-12-02 00:59:05.368504",
         "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert",
-            "animal": "gnu",
+            "backdrop": "forest",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -40,10 +40,10 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Alien Riot Police Bot: A Studio Ghibli Inspired Masterpiece"
+        "title": "Futuristic Alien Riot Police Robot in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-km44vuGK4teBAP4paNiDVLaV.png?st=2024-12-04T17%3A35%3A05Z&se=2024-12-04T19%3A35%3A05Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T01%3A19%3A55Z&ske=2024-12-05T01%3A19%3A55Z&sks=b&skv=2024-08-04&sig=63TtusC3jgTNkfOloq%2Bnytukc8ce9RmRV8tiKud6rho%3D",
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-8iJqWS8FO50kz83lATn6KP8v.png?st=2024-12-05T08%3A57%3A21Z&se=2024-12-05T10%3A57%3A21Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A07%3A13Z&ske=2024-12-06T00%3A07%3A13Z&sks=b&skv=2024-08-04&sig=nVS4MAILn5sRmZsjQlxHBh1ZX8r3UGVNr3zn5VU5I6Y%3D",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/ee484e199518042321fc982ba33cd031/ee484e199518042321fc982ba33cd031.jpg"
     },
     "tags": [],
