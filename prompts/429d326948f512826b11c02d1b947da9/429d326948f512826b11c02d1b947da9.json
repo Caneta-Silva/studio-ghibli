@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a alien medic mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien desert landscape",
+    "id": "429d326948f512826b11c02d1b947da9",
+    "prompt_history": [
+        "Create a landscape full body image of a alien medic mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien desert landscape"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:04.819642",
+    "seed_prompt": "Create a landscape full body image of a alien medic mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien desert landscape",
+    "metadata": {
+        "element": "medic",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "desert landscape",
+        "animal": "horse",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Alien Medic and Companion in the Alien Desert"
+}
