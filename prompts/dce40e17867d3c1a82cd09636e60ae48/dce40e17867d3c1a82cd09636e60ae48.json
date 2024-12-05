@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+    "id": "dce40e17867d3c1a82cd09636e60ae48",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien tropical forest"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:06.028669",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+    "metadata": {
+        "element": "tribe chief",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "tropical forest",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Alien Tribe Chief in Alien Tropical Forest"
+}
