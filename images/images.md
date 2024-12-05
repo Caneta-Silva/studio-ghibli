@@ -223,6 +223,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 4f7615719fce1800e117823087934102 
+
+![data.id](./4f7615719fce1800e117823087934102/4f7615719fce1800e117823087934102.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 4f7615719fce1800e117823087934102                                                                                                             |
+| **Title**           | Futuristic Alien Tribe Chief in Alien Tropical Forest                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien tropical forest                                                                                                       |
+| **CreatedAt**        | 2024-12-05 10:48:43.074575                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-TB0Q1EmM0NakOht0qHT2BQTu.png?st=2024-12-05T09%3A48%3A37Z&se=2024-12-05T11%3A48%3A37Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A14%3A09Z&ske=2024-12-06T00%3A14%3A09Z&sks=b&skv=2024-08-04&sig=T8MyLgogs8QHLux/hku/YKg9wJqQHQmSJBPmF7NCegk%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/4f7615719fce1800e117823087934102/4f7615719fce1800e117823087934102.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 dce40e17867d3c1a82cd09636e60ae48
+
+> Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien tropical forest
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | dce40e17867d3c1a82cd09636e60ae48                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** tribe chief <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** tropical forest <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
 ### 📷 17745e66172c6e58f44f030205674029 
 
 ![data.id](./17745e66172c6e58f44f030205674029/17745e66172c6e58f44f030205674029.jpg)
@@ -422,28 +454,28 @@
 | Field          | Value                                                                                                                     |
 |----------------|---------------------------------------------------------------------------------------------------------------------------|
 | **Image ID**             | e46ea160cb294451411f238a112f5c62                                                                                                             |
-| **Title**           | The Futuristic Paladin: A Studio Ghibli Inspired Landscape                                                                                                       |
+| **Title**           | Futuristic Paladin in Studio Ghibli Style                                                                                                       |
 | **Description**           | Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli                                                                                                       |
-| **CreatedAt**        | 2024-12-04 16:36:48.751694                                                                                                        |
+| **CreatedAt**        | 2024-12-05 10:50:36.503762                                                                                                        |
 | **Model**        | dall-e-2                                                                                                        |
-| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-VKpLOPT1x1mxGRJODVKHkRkD.png?st=2024-12-04T15%3A36%3A42Z&se=2024-12-04T17%3A36%3A42Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T01%3A30%3A24Z&ske=2024-12-05T01%3A30%3A24Z&sks=b&skv=2024-08-04&sig=olYcHfPfUYquwPI6OTjkXLSdWcTqSy4fpJmUT7ITACw%3D)                                                                                |
-| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg?raw=true)                                                                                |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-JLvP2shKcjgP6XZ5wmwYSaE1.png?st=2024-12-05T09%3A50%3A30Z&se=2024-12-05T11%3A50%3A30Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A14%3A29Z&ske=2024-12-06T00%3A14%3A29Z&sks=b&skv=2024-08-04&sig=efsczwDN5F0jmwH5rdyDhVSNj2cPLpFRJgPV%2BZBb0Go%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg)                                                                                |
 | **Tags**       | None                                                                                                                   |
 
-### 📜 16921222bf4968f7f04053097cc7ad24
+### 📜 afd2d0a963c801e6b4db48e0ed13e196
 
 > Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli
 
 | Field          | Value                                                                                                                                                                      |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Prompt ID**  | 16921222bf4968f7f04053097cc7ad24                                                                                                                                                            |
+| **Prompt ID**  | afd2d0a963c801e6b4db48e0ed13e196                                                                                                                                                            |
 | **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
 | **Created At** |                                                                                                                                                    |
 | **Revised At** | None                                                                                                                                                   |
 | **Revised Prompt** | No                                                                                                                                                                      |
 | **Enhanced At** | None                                                                                                                                                  |
 | **Enhanced Prompt** | No                                                                                                                                                                    |
-| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
 
 

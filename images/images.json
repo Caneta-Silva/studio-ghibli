@@ -372,6 +372,57 @@
         "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/1f4b8bf9c38f0bc2a79be5b9ced4e98b/1f4b8bf9c38f0bc2a79be5b9ced4e98b.jpg"
     },
     {
+        "id": "4f7615719fce1800e117823087934102",
+        "title": "Futuristic Alien Tribe Chief in Alien Tropical Forest",
+        "description": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+        "created": "2024-12-05 10:48:43.074575",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+            "id": "dce40e17867d3c1a82cd09636e60ae48",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien tropical forest"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-02 00:59:06.028669",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+            "metadata": {
+                "element": "tribe chief",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "tropical forest",
+                "animal": "elephant",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": true
+                },
+                "animal": false,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Futuristic Alien Tribe Chief in Alien Tropical Forest"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-TB0Q1EmM0NakOht0qHT2BQTu.png?st=2024-12-05T09%3A48%3A37Z&se=2024-12-05T11%3A48%3A37Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A14%3A09Z&ske=2024-12-06T00%3A14%3A09Z&sks=b&skv=2024-08-04&sig=T8MyLgogs8QHLux/hku/YKg9wJqQHQmSJBPmF7NCegk%3D",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/4f7615719fce1800e117823087934102/4f7615719fce1800e117823087934102.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2"
+    },
+    {
         "id": "17745e66172c6e58f44f030205674029",
         "title": "Emperor of the Alien Realm: A Studio Ghibli Inspired Scene",
         "description": "Create a landscape full body image of a alien emperor mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
@@ -688,12 +739,12 @@
     },
     {
         "id": "e46ea160cb294451411f238a112f5c62",
-        "title": "The Futuristic Paladin: A Studio Ghibli Inspired Landscape",
+        "title": "Futuristic Paladin in Studio Ghibli Style",
         "description": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-        "created": "2024-12-04 16:36:48.751694",
+        "created": "2024-12-05 10:50:36.503762",
         "prompt": {
             "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-            "id": "16921222bf4968f7f04053097cc7ad24",
+            "id": "afd2d0a963c801e6b4db48e0ed13e196",
             "prompt_history": [
                 "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
             ],
@@ -701,18 +752,18 @@
             "revised_prompt": false,
             "enhanced_at": null,
             "enhanced_prompt": false,
-            "seeded_at": "2024-12-02 00:59:05.038558",
+            "seeded_at": "2024-12-02 00:59:05.029389",
             "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
             "metadata": {
                 "element": "paladin style military",
                 "style": "Studio Ghibli",
                 "aspect_ratio": "landscape",
-                "backdrop": "spaceship",
-                "animal": "elephant",
+                "backdrop": "Martial landscape",
+                "animal": "deer",
                 "modifiers": {
                     "image": "full body",
                     "element": "futuristic",
-                    "backdrop": "alien"
+                    "backdrop": "futuristic"
                 }
             },
             "template": {
@@ -728,11 +779,11 @@
                 "animal": false,
                 "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
             },
-            "title": "The Futuristic Paladin: A Studio Ghibli Inspired Landscape"
+            "title": "Futuristic Paladin in Studio Ghibli Style"
         },
         "urls": {
-            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-VKpLOPT1x1mxGRJODVKHkRkD.png?st=2024-12-04T15%3A36%3A42Z&se=2024-12-04T17%3A36%3A42Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T01%3A30%3A24Z&ske=2024-12-05T01%3A30%3A24Z&sks=b&skv=2024-08-04&sig=olYcHfPfUYquwPI6OTjkXLSdWcTqSy4fpJmUT7ITACw%3D",
-            "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg?raw=true"
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-JLvP2shKcjgP6XZ5wmwYSaE1.png?st=2024-12-05T09%3A50%3A30Z&se=2024-12-05T11%3A50%3A30Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A14%3A29Z&ske=2024-12-06T00%3A14%3A29Z&sks=b&skv=2024-08-04&sig=efsczwDN5F0jmwH5rdyDhVSNj2cPLpFRJgPV%2BZBb0Go%3D",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
         },
         "tags": [],
         "model_version": "dall-e-2"
