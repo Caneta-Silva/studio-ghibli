@@ -1,0 +1,51 @@
+{
+    "id": "e8bbce1ef3975251df75d608a397ef05",
+    "title": "Futuristic Alien Shaman and Camel in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic alien shaman mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+    "created": "2024-12-05 21:23:04.487977",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien shaman mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+        "id": "f4357ffcf9c1a51366e918fb7666a3e1",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien shaman mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.929231",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien shaman mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Shaman and Camel in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-vLBLhBJ9zu31LCNyYXMaL20g.png?st=2024-12-05T20%3A22%3A58Z&se=2024-12-05T22%3A22%3A58Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T19%3A08%3A13Z&ske=2024-12-06T19%3A08%3A13Z&sks=b&skv=2024-08-04&sig=Nknpq1mxWyY4Sz2UBFtNULWqRT//R4PCLuOZTERs4TY%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/e8bbce1ef3975251df75d608a397ef05/e8bbce1ef3975251df75d608a397ef05.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
