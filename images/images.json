@@ -2731,12 +2731,12 @@
     },
     {
         "id": "d674be8abaf7ffa4850bfa0bbbab6304",
-        "title": "Galactic Guardian: An Alien Firefighter",
+        "title": "Alien Firefighter in Studio Ghibli Style",
         "description": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
-        "created": "2024-12-05 10:17:00.583968",
+        "created": "2024-12-05 15:18:33.560982",
         "prompt": {
             "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
-            "id": "f61b38d8258948e56d043be31a90b6bd",
+            "id": "12852d061fb27b9d487a0f0508e70681",
             "prompt_history": [
                 "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli"
             ],
@@ -2744,18 +2744,18 @@
             "revised_prompt": false,
             "enhanced_at": null,
             "enhanced_prompt": false,
-            "seeded_at": "2024-12-02 00:59:05.322077",
+            "seeded_at": "2024-12-02 00:59:05.326689",
             "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
             "metadata": {
                 "element": "firefighter",
                 "style": "Studio Ghibli",
                 "aspect_ratio": "landscape",
-                "backdrop": "desert",
+                "backdrop": "desert landscape",
                 "animal": "deer",
                 "modifiers": {
                     "image": "full body",
                     "element": "alien",
-                    "backdrop": "alien"
+                    "backdrop": "futuristic alien"
                 }
             },
             "template": {
@@ -2771,10 +2771,10 @@
                 "animal": false,
                 "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
             },
-            "title": "Galactic Guardian: An Alien Firefighter"
+            "title": "Alien Firefighter in Studio Ghibli Style"
         },
         "urls": {
-            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-05eYE6jfNLM6ZLBFGVxb3TYb.png?st=2024-12-05T09%3A16%3A54Z&se=2024-12-05T11%3A16%3A54Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T23%3A55%3A51Z&ske=2024-12-05T23%3A55%3A51Z&sks=b&skv=2024-08-04&sig=PP8t2O7IHChSZd1R0Mk%2BPC3BJBRnvHIgduWOHMzaxkg%3D",
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-blucF4HlJ81iQZtyjsDUEwKC.png?st=2024-12-05T14%3A18%3A27Z&se=2024-12-05T16%3A18%3A27Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A34%3A51Z&ske=2024-12-06T00%3A34%3A51Z&sks=b&skv=2024-08-04&sig=So1J/zxII2hrorafP7tsYdAJJKn%2BI6uJ7mn79gNzXZc%3D",
             "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/d674be8abaf7ffa4850bfa0bbbab6304/d674be8abaf7ffa4850bfa0bbbab6304.jpg"
         },
         "tags": [],
@@ -3666,6 +3666,57 @@
         "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/c1553a050a53747720ef98f0adeac840/c1553a050a53747720ef98f0adeac840.jpg?raw=true"
     },
     {
+        "id": "2b77988ecde018cc02efe1769c68ac1e",
+        "title": "Chief of the Futuristic Alien Tribe in the Mystical Forest",
+        "description": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien forest",
+        "created": "2024-12-05 12:18:01.151214",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien forest",
+            "id": "582172ba91e039c55216fdfa7820f416",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien forest"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-02 00:59:06.029583",
+            "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien forest",
+            "metadata": {
+                "element": "tribe chief",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "forest",
+                "animal": "gnu",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic alien",
+                    "backdrop": "alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": true
+                },
+                "animal": false,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Chief of the Futuristic Alien Tribe in the Mystical Forest"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-kYEZIpUjWHaER5PNq0nSJOzX.png?st=2024-12-05T11%3A17%3A54Z&se=2024-12-05T13%3A17%3A54Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T11%3A03%3A25Z&ske=2024-12-06T11%3A03%3A25Z&sks=b&skv=2024-08-04&sig=KamO07tPF6uIk%2B53TSw3QBWX8SnKpXDcnXF37phq6V8%3D",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/2b77988ecde018cc02efe1769c68ac1e/2b77988ecde018cc02efe1769c68ac1e.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2"
+    },
+    {
         "id": "33c13d8935e5b0575916ebc696dbbe24",
         "title": "Alien Medic Riding a Rhinoceros in a Futuristic Tropical Forest",
         "description": "Create a landscape full body image of a alien medic mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
@@ -3715,6 +3766,60 @@
         },
         "tags": [],
         "model_version": "dall-e-2"
+    },
+    {
+        "id": "de4432dbd0cadacfec28d53e4b24e771",
+        "title": "Futuristic Firefighter in Alien Tropical Forest",
+        "description": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest",
+        "created": "2024-12-05 12:15:57.626262",
+        "prompt": {
+            "prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest",
+            "id": "97da5c56907bd74898aa09558fd63d08",
+            "prompt_history": [
+                "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest"
+            ],
+            "revised_at": null,
+            "revised_prompt": false,
+            "enhanced_at": null,
+            "enhanced_prompt": false,
+            "seeded_at": "2024-12-02 00:59:05.766102",
+            "seed_prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest",
+            "metadata": {
+                "element": "firefighter",
+                "style": "Studio Ghibli",
+                "aspect_ratio": "landscape",
+                "backdrop": "tropical forest",
+                "animal": "elephant",
+                "modifiers": {
+                    "image": "full body",
+                    "element": "futuristic",
+                    "backdrop": "futuristic alien"
+                }
+            },
+            "template": {
+                "style": true,
+                "aspect_ratio": true,
+                "element": true,
+                "backdrop": true,
+                "modifiers": {
+                    "image": true,
+                    "element": false,
+                    "backdrop": true
+                },
+                "animal": false,
+                "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+            },
+            "title": "Futuristic Firefighter in Alien Tropical Forest"
+        },
+        "urls": {
+            "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-qPwPXlTNukvdrz8gmdnq4bVn.png?st=2024-12-05T11%3A15%3A51Z&se=2024-12-05T13%3A15%3A51Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A11%3A39Z&ske=2024-12-06T00%3A11%3A39Z&sks=b&skv=2024-08-04&sig=DMAbUk4nmsQv94BAHxD6OsJCdQdZIre4npt6XDzdo%2B0%3D",
+            "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/de4432dbd0cadacfec28d53e4b24e771/de4432dbd0cadacfec28d53e4b24e771.jpg"
+        },
+        "tags": [],
+        "model_version": "dall-e-2",
+        "name": "FuturistForestGuardian",
+        "symbol": "DE4432DBD",
+        "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/de4432dbd0cadacfec28d53e4b24e771/de4432dbd0cadacfec28d53e4b24e771.jpg"
     },
     {
         "id": "1f4b8bf9c38f0bc2a79be5b9ced4e98b",
