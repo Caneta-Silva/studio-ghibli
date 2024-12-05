@@ -1,0 +1,51 @@
+{
+    "id": "b3992de7154c62000ca82a92140a483f",
+    "title": "The Majestic Alien Emperor",
+    "description": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli against the backdrop of a alien spaceship",
+    "created": "2024-12-05 10:22:03.261177",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli against the backdrop of a alien spaceship",
+        "id": "57c02673f710c8d1b478682c9d90799d",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli against the backdrop of a alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:06.069128",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli against the backdrop of a alien spaceship",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "The Majestic Alien Emperor"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-BWwwpLjWJOLGr0UIPAlwvqZw.png?st=2024-12-05T09%3A21%3A57Z&se=2024-12-05T11%3A21%3A57Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A10%3A24Z&ske=2024-12-06T00%3A10%3A24Z&sks=b&skv=2024-08-04&sig=F9x8h04i9rcnBHUTl2hJGRL%2BZGeVYiqL/8e5VXlbbYM%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/b3992de7154c62000ca82a92140a483f/b3992de7154c62000ca82a92140a483f.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
