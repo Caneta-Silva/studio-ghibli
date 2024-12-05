@@ -1670,28 +1670,28 @@
 | Field          | Value                                                                                                                     |
 |----------------|---------------------------------------------------------------------------------------------------------------------------|
 | **Image ID**             | d674be8abaf7ffa4850bfa0bbbab6304                                                                                                             |
-| **Title**           | Galactic Guardian: An Alien Firefighter                                                                                                       |
+| **Title**           | Alien Firefighter in Studio Ghibli Style                                                                                                       |
 | **Description**           | Create a landscape full body image of a alien firefighter in the style of Studio Ghibli                                                                                                       |
-| **CreatedAt**        | 2024-12-05 10:17:00.583968                                                                                                        |
+| **CreatedAt**        | 2024-12-05 15:18:33.560982                                                                                                        |
 | **Model**        | dall-e-2                                                                                                        |
-| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-05eYE6jfNLM6ZLBFGVxb3TYb.png?st=2024-12-05T09%3A16%3A54Z&se=2024-12-05T11%3A16%3A54Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T23%3A55%3A51Z&ske=2024-12-05T23%3A55%3A51Z&sks=b&skv=2024-08-04&sig=PP8t2O7IHChSZd1R0Mk%2BPC3BJBRnvHIgduWOHMzaxkg%3D)                                                                                |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-blucF4HlJ81iQZtyjsDUEwKC.png?st=2024-12-05T14%3A18%3A27Z&se=2024-12-05T16%3A18%3A27Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A34%3A51Z&ske=2024-12-06T00%3A34%3A51Z&sks=b&skv=2024-08-04&sig=So1J/zxII2hrorafP7tsYdAJJKn%2BI6uJ7mn79gNzXZc%3D)                                                                                |
 | **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/d674be8abaf7ffa4850bfa0bbbab6304/d674be8abaf7ffa4850bfa0bbbab6304.jpg)                                                                                |
 | **Tags**       | None                                                                                                                   |
 
-### 📜 f61b38d8258948e56d043be31a90b6bd
+### 📜 12852d061fb27b9d487a0f0508e70681
 
 > Create a landscape full body image of a alien firefighter in the style of Studio Ghibli
 
 | Field          | Value                                                                                                                                                                      |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Prompt ID**  | f61b38d8258948e56d043be31a90b6bd                                                                                                                                                            |
+| **Prompt ID**  | 12852d061fb27b9d487a0f0508e70681                                                                                                                                                            |
 | **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
 | **Created At** |                                                                                                                                                    |
 | **Revised At** | None                                                                                                                                                   |
 | **Revised Prompt** | No                                                                                                                                                                      |
 | **Enhanced At** | None                                                                                                                                                  |
 | **Enhanced Prompt** | No                                                                                                                                                                    |
-| **Metadata**   | <ul><li>**Element:** firefighter <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** desert <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Metadata**   | <ul><li>**Element:** firefighter <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** desert landscape <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
 
 
@@ -2239,6 +2239,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 2b77988ecde018cc02efe1769c68ac1e 
+
+![data.id](./2b77988ecde018cc02efe1769c68ac1e/2b77988ecde018cc02efe1769c68ac1e.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 2b77988ecde018cc02efe1769c68ac1e                                                                                                             |
+| **Title**           | Chief of the Futuristic Alien Tribe in the Mystical Forest                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien forest                                                                                                       |
+| **CreatedAt**        | 2024-12-05 12:18:01.151214                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-kYEZIpUjWHaER5PNq0nSJOzX.png?st=2024-12-05T11%3A17%3A54Z&se=2024-12-05T13%3A17%3A54Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T11%3A03%3A25Z&ske=2024-12-06T11%3A03%3A25Z&sks=b&skv=2024-08-04&sig=KamO07tPF6uIk%2B53TSw3QBWX8SnKpXDcnXF37phq6V8%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/2b77988ecde018cc02efe1769c68ac1e/2b77988ecde018cc02efe1769c68ac1e.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 582172ba91e039c55216fdfa7820f416
+
+> Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien forest
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 582172ba91e039c55216fdfa7820f416                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** tribe chief <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** forest <br> **Animal:** gnu <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
 ### 📷 33c13d8935e5b0575916ebc696dbbe24 
 
 ![data.id](./33c13d8935e5b0575916ebc696dbbe24/33c13d8935e5b0575916ebc696dbbe24.jpg)
@@ -2269,6 +2301,38 @@
 | **Enhanced Prompt** | No                                                                                                                                                                    |
 | **Metadata**   | <ul><li>**Element:** medic <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** tropical forest <br> **Animal:** rhino <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 de4432dbd0cadacfec28d53e4b24e771 
+
+![data.id](./de4432dbd0cadacfec28d53e4b24e771/de4432dbd0cadacfec28d53e4b24e771.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | de4432dbd0cadacfec28d53e4b24e771                                                                                                             |
+| **Title**           | Futuristic Firefighter in Alien Tropical Forest                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest                                                                                                       |
+| **CreatedAt**        | 2024-12-05 12:15:57.626262                                                                                                        |
+| **Model**        | dall-e-2                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-qPwPXlTNukvdrz8gmdnq4bVn.png?st=2024-12-05T11%3A15%3A51Z&se=2024-12-05T13%3A15%3A51Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A11%3A39Z&ske=2024-12-06T00%3A11%3A39Z&sks=b&skv=2024-08-04&sig=DMAbUk4nmsQv94BAHxD6OsJCdQdZIre4npt6XDzdo%2B0%3D)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/de4432dbd0cadacfec28d53e4b24e771/de4432dbd0cadacfec28d53e4b24e771.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 97da5c56907bd74898aa09558fd63d08
+
+> Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 97da5c56907bd74898aa09558fd63d08                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** firefighter <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** tropical forest <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
 ### 📷 1f4b8bf9c38f0bc2a79be5b9ced4e98b 
