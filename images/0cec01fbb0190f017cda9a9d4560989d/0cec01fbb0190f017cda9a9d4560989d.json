@@ -1,0 +1,51 @@
+{
+    "id": "0cec01fbb0190f017cda9a9d4560989d",
+    "title": "The Guardian of the Alien Fortress",
+    "description": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli against the backdrop of a futuristic alien fortress",
+    "created": "2024-12-05 11:10:40.826436",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli against the backdrop of a futuristic alien fortress",
+        "id": "6797af7ce4b9804e0507c24799bb9927",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli against the backdrop of a futuristic alien fortress"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.986711",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli against the backdrop of a futuristic alien fortress",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "The Guardian of the Alien Fortress"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-HiVoWnzCgWHc71YcwxuSJkPm.png?st=2024-12-05T10%3A10%3A34Z&se=2024-12-05T12%3A10%3A34Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A24%3A15Z&ske=2024-12-06T00%3A24%3A15Z&sks=b&skv=2024-08-04&sig=YhJeKabsCqJGAV13m%2B3207Z0xm5Ua9E6gMvmVcU6kTw%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/0cec01fbb0190f017cda9a9d4560989d/0cec01fbb0190f017cda9a9d4560989d.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
