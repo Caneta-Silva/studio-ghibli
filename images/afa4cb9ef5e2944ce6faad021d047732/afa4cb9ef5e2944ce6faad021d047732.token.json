@@ -1,0 +1,54 @@
+{
+    "id": "afa4cb9ef5e2944ce6faad021d047732",
+    "title": "Futuristic Medic and Alien steed in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic medic mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien spaceship",
+    "created": "2024-12-05 12:15:03.226899",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic medic mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien spaceship",
+        "id": "f099e370e7973eeb89df2e4e680e7383",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic medic mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.656326",
+        "seed_prompt": "Create a landscape full body image of a futuristic medic mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien spaceship",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Medic and Alien steed in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-kJSySPxatHPtasosHsIVmDRv.png?st=2024-12-05T11%3A14%3A56Z&se=2024-12-05T13%3A14%3A56Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A01%3A23Z&ske=2024-12-06T00%3A01%3A23Z&sks=b&skv=2024-08-04&sig=TtRoJqFqRL4Z4qjIcyZWQynuhRm990o/DleUggYE//w%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/afa4cb9ef5e2944ce6faad021d047732/afa4cb9ef5e2944ce6faad021d047732.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Galactic Medician Rider",
+    "symbol": "AFA4CB9EF",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/afa4cb9ef5e2944ce6faad021d047732/afa4cb9ef5e2944ce6faad021d047732.jpg"
+}
