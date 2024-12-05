@@ -1,0 +1,54 @@
+{
+    "id": "228125e7aac835074c38498b2699d2a7",
+    "title": "Desert Tribe Warrior and Alien Rhino in Alien Tropical Forest",
+    "description": "Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+    "created": "2024-12-05 21:40:07.143921",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+        "id": "9b2507eda0b596963ac711a010b8af14",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a alien tropical forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.534473",
+        "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Desert Tribe Warrior and Alien Rhino in Alien Tropical Forest"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-zrYx4spyDNdOCI5vBiwDnByv.png?st=2024-12-05T20%3A40%3A01Z&se=2024-12-05T22%3A40%3A01Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T19%3A11%3A18Z&ske=2024-12-06T19%3A11%3A18Z&sks=b&skv=2024-08-04&sig=kgJCgr3Ibp6Zee2d8TFN8NiQrxVpgnbyjvpzY3w3ULk%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/228125e7aac835074c38498b2699d2a7/228125e7aac835074c38498b2699d2a7.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Rhino Rider of the Alien Oasis",
+    "symbol": "228125E7A",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/228125e7aac835074c38498b2699d2a7/228125e7aac835074c38498b2699d2a7.jpg"
+}
