@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a alien police mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien fortress",
+    "id": "c8e8e13bf91f6e46037cdd9582f1a3b3",
+    "prompt_history": [
+        "Create a landscape full body image of a alien police mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien fortress"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:04.797042",
+    "seed_prompt": "Create a landscape full body image of a alien police mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien fortress",
+    "metadata": {
+        "element": "police",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "fortress",
+        "animal": "rhino",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Guardians of the Alien Fortress"
+}
