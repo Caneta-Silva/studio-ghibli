@@ -1,11 +1,11 @@
 {
     "id": "d674be8abaf7ffa4850bfa0bbbab6304",
-    "title": "Alien Firefighter in Studio Ghibli Style",
+    "title": "Benevolent Alien Firefighter in the Spirit of Studio Ghibli",
     "description": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
-    "created": "2024-12-05 15:18:33.560982",
+    "created": "2024-12-05 17:47:44.762785",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
-        "id": "12852d061fb27b9d487a0f0508e70681",
+        "id": "9bdf03b13b800b6be767eb0ccd22c1c8",
         "prompt_history": [
             "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-02 00:59:05.326689",
+        "seeded_at": "2024-12-02 00:59:05.324636",
         "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
         "metadata": {
             "element": "firefighter",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "desert landscape",
-            "animal": "deer",
+            "backdrop": "spaceship",
+            "animal": "giraffe",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -40,15 +40,15 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Alien Firefighter in Studio Ghibli Style"
+        "title": "Benevolent Alien Firefighter in the Spirit of Studio Ghibli"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-blucF4HlJ81iQZtyjsDUEwKC.png?st=2024-12-05T14%3A18%3A27Z&se=2024-12-05T16%3A18%3A27Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A34%3A51Z&ske=2024-12-06T00%3A34%3A51Z&sks=b&skv=2024-08-04&sig=So1J/zxII2hrorafP7tsYdAJJKn%2BI6uJ7mn79gNzXZc%3D",
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-u9zz4duhabCnDCc1SbXO7tBU.png?st=2024-12-05T16%3A47%3A38Z&se=2024-12-05T18%3A47%3A38Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A06%3A50Z&ske=2024-12-06T00%3A06%3A50Z&sks=b&skv=2024-08-04&sig=T8uKQIcJgvHwnxZg6EwfIx%2B3hwTA%2B1l5WQgdqYjSQ3g%3D",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/d674be8abaf7ffa4850bfa0bbbab6304/d674be8abaf7ffa4850bfa0bbbab6304.jpg"
     },
     "tags": [],
     "model_version": "dall-e-2",
-    "name": null,
+    "name": "Novaflame",
     "symbol": "D674BE8AB",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/d674be8abaf7ffa4850bfa0bbbab6304/d674be8abaf7ffa4850bfa0bbbab6304.jpg"
 }
