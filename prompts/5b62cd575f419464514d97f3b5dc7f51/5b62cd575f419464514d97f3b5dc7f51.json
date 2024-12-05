@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a futuristic Martial landscape",
+    "id": "5b62cd575f419464514d97f3b5dc7f51",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a futuristic Martial landscape"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:06.020820",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a futuristic Martial landscape",
+    "metadata": {
+        "element": "tribe chief",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "giraffe",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style"
+}
