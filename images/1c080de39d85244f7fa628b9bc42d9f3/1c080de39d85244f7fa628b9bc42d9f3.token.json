@@ -1,0 +1,54 @@
+{
+    "id": "1c080de39d85244f7fa628b9bc42d9f3",
+    "title": "Futuristic Alien Police in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+    "created": "2024-12-05 21:06:47.906490",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+        "id": "7f52df667790d0fea0f7300f8c205808",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.462948",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Police in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-QpyKOMG7k2eZDENyRBIyT7oh.png?st=2024-12-05T20%3A06%3A41Z&se=2024-12-05T22%3A06%3A41Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T19%3A14%3A22Z&ske=2024-12-06T19%3A14%3A22Z&sks=b&skv=2024-08-04&sig=eNkg9oBrWDPzhTMMD3INTSoklAr34imdFpb9v00DMc0%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Cosmo Sentinel",
+    "symbol": "1C080DE39",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/1c080de39d85244f7fa628b9bc42d9f3/1c080de39d85244f7fa628b9bc42d9f3.jpg"
+}
