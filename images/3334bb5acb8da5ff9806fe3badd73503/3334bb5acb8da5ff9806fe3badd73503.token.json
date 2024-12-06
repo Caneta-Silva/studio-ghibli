@@ -1,11 +1,11 @@
 {
     "id": "3334bb5acb8da5ff9806fe3badd73503",
-    "title": "Futuristic Tribe Chief Amongst Nature - inspired by Studio Ghibli",
+    "title": "Futuristic Tribe Chief in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
-    "created": "2024-12-04 22:44:24.443399",
+    "created": "2024-12-06 15:18:34.134241",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
-        "id": "8b4a361f0f9b25e31496ec68ee4765d8",
+        "id": "8f54aafcab00b1c1457d023a8cd8bb69",
         "prompt_history": [
             "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-02 00:59:05.102995",
+        "seeded_at": "2024-12-02 00:59:05.104987",
         "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
         "metadata": {
             "element": "tribe chief",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
+            "backdrop": "desert",
             "animal": "gnu",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "alien"
+                "backdrop": "futuristic alien"
             }
         },
         "template": {
@@ -40,15 +40,15 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Tribe Chief Amongst Nature - inspired by Studio Ghibli"
+        "title": "Futuristic Tribe Chief in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-HJDgIALt8Cjur28dvSL5DhNQ.png?st=2024-12-04T21%3A44%3A18Z&se=2024-12-04T23%3A44%3A18Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T19%3A19%3A46Z&ske=2024-12-05T19%3A19%3A46Z&sks=b&skv=2024-08-04&sig=ceCWt9rnnO%2BM1GlL2zbBO%2BhwKnUlsQruA3lut%2BjhbXM%3D",
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-sgRaAK19Syh71rjH8gVULGMw.png?st=2024-12-06T14%3A18%3A27Z&se=2024-12-06T16%3A18%3A27Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-06T00%3A04%3A51Z&ske=2024-12-07T00%3A04%3A51Z&sks=b&skv=2024-08-04&sig=op2b8jdL0SUkETkNN7eOqoEokwUjmvwFdL7N7NyOSRI%3D",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/3334bb5acb8da5ff9806fe3badd73503/3334bb5acb8da5ff9806fe3badd73503.jpg"
     },
     "tags": [],
     "model_version": "dall-e-2",
-    "name": "Lumifire, Guardian of Tomorrow",
+    "name": "Akiro the Visionary",
     "symbol": "3334BB5AC",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/3334bb5acb8da5ff9806fe3badd73503/3334bb5acb8da5ff9806fe3badd73503.jpg"
 }
