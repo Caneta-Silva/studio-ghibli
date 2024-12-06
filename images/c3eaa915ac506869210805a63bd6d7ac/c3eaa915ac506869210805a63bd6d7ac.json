@@ -1,0 +1,51 @@
+{
+    "id": "c3eaa915ac506869210805a63bd6d7ac",
+    "title": "Futuristic Tribe Chief and Alien Horse in the Wondrous Forest",
+    "description": "Create a landscape full body image of a futuristic tribe chief mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+    "created": "2024-12-06 13:52:41.880541",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic tribe chief mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+        "id": "5002f9da1e8252a0ebdac0283e98a337",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic tribe chief mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien tropical forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.568712",
+        "seed_prompt": "Create a landscape full body image of a futuristic tribe chief mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Tribe Chief and Alien Horse in the Wondrous Forest"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-z0biyPDqOxw4vdhJyH3rL9AR.png?st=2024-12-06T12%3A52%3A35Z&se=2024-12-06T14%3A52%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-06T00%3A28%3A22Z&ske=2024-12-07T00%3A28%3A22Z&sks=b&skv=2024-08-04&sig=gwsJC55PLUyuj44ARRBHUDOq36/t7FpI7fvkg28Bdok%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/c3eaa915ac506869210805a63bd6d7ac/c3eaa915ac506869210805a63bd6d7ac.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
