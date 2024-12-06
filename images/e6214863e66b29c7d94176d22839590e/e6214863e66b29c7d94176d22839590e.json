@@ -1,0 +1,51 @@
+{
+    "id": "e6214863e66b29c7d94176d22839590e",
+    "title": "Futuristic Police on Alien Horse in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic police mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien desert",
+    "created": "2024-12-06 14:59:27.115825",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic police mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien desert",
+        "id": "cb05f43a59d65e9a32fd2f885f96e767",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic police mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien desert"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.617753",
+        "seed_prompt": "Create a landscape full body image of a futuristic police mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien desert",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Police on Alien Horse in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-0cE6gDI9sg0Rf2g89p8O1vF2.png?st=2024-12-06T13%3A59%3A21Z&se=2024-12-06T15%3A59%3A21Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T23%3A57%3A32Z&ske=2024-12-06T23%3A57%3A32Z&sks=b&skv=2024-08-04&sig=SQOBrm7caHrEPXXf8Tu%2BJMSYCTkRQzyY8ZmH70Xq%2BFY%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/e6214863e66b29c7d94176d22839590e/e6214863e66b29c7d94176d22839590e.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
