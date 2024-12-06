@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic police mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien desert",
+    "id": "cb05f43a59d65e9a32fd2f885f96e767",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic police mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien desert"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:04.617753",
+    "seed_prompt": "Create a landscape full body image of a futuristic police mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien desert",
+    "metadata": {
+        "element": "police",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "desert",
+        "animal": "horse",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Police on Alien Horse in Studio Ghibli Style"
+}
