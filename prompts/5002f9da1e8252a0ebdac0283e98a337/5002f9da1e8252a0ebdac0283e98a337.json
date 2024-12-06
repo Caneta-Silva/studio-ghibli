@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic tribe chief mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+    "id": "5002f9da1e8252a0ebdac0283e98a337",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic tribe chief mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien tropical forest"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:04.568712",
+    "seed_prompt": "Create a landscape full body image of a futuristic tribe chief mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+    "metadata": {
+        "element": "tribe chief",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "tropical forest",
+        "animal": "horse",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Tribe Chief and Alien Horse in the Wondrous Forest"
+}
