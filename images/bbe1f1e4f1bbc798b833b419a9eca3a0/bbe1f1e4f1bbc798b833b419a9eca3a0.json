@@ -1,11 +1,11 @@
 {
     "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
-    "title": "Futuristic Riot Police Robot in Ghibli Style",
+    "title": "Futuristic Riot Police Robot: Studio Ghibli Inspired Landscape",
     "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-    "created": "2024-12-05 10:17:13.030863",
+    "created": "2024-12-06 14:17:48.057245",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-        "id": "a6bfec3f8b88b74b76284b41bebb15b2",
+        "id": "34da226065fe6b1d2f63c25c1d7e3144",
         "prompt_history": [
             "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-02 00:59:05.059812",
+        "seeded_at": "2024-12-02 00:59:05.049987",
         "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "spaceship",
-            "animal": "giraffe",
+            "backdrop": "fortress",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -40,10 +40,10 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Riot Police Robot in Ghibli Style"
+        "title": "Futuristic Riot Police Robot: Studio Ghibli Inspired Landscape"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-v1oXUoNbIAOJGLIQegndT7fB.png?st=2024-12-05T09%3A17%3A06Z&se=2024-12-05T11%3A17%3A06Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A10%3A33Z&ske=2024-12-06T00%3A10%3A33Z&sks=b&skv=2024-08-04&sig=JilNHfwRjFlN65Po3jZSjiRM9OYCS%2BNxq5wbcddZczw%3D",
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-ITK4Iut4tg85sk3HL0KDqLmw.png?st=2024-12-06T13%3A17%3A41Z&se=2024-12-06T15%3A17%3A41Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T23%3A58%3A21Z&ske=2024-12-06T23%3A58%3A21Z&sks=b&skv=2024-08-04&sig=kuOriKkaIfMOsa2gSrTHSvroYzhlLheQ8uB11EqqyCA%3D",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
     },
     "tags": [],
