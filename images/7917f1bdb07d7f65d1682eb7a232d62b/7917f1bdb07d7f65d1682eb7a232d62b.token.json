@@ -1,0 +1,54 @@
+{
+    "id": "7917f1bdb07d7f65d1682eb7a232d62b",
+    "title": "The Alien Tribe Chief of the Futuristic Desert",
+    "description": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+    "created": "2024-12-07 21:36:25.522981",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+        "id": "0cbd63ac777a27dc758ae5274adf0182",
+        "prompt_history": [
+            "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli against the backdrop of a futuristic alien desert"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.866375",
+        "seed_prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "The Alien Tribe Chief of the Futuristic Desert"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-cnkvMHW4ku3wgqq8w7hSBVuR.png?st=2024-12-07T20%3A36%3A17Z&se=2024-12-07T22%3A36%3A17Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-06T22%3A49%3A10Z&ske=2024-12-07T22%3A49%3A10Z&sks=b&skv=2024-08-04&sig=nlmB47%2BQXSZ36%2B9MimebpPKPQTRmTrn/CCyS9s8OZ9M%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/7917f1bdb07d7f65d1682eb7a232d62b/7917f1bdb07d7f65d1682eb7a232d62b.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Ghibli Galactic Chief",
+    "symbol": "7917F1BDB",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/7917f1bdb07d7f65d1682eb7a232d62b/7917f1bdb07d7f65d1682eb7a232d62b.jpg"
+}
