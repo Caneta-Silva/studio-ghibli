@@ -1,0 +1,51 @@
+{
+    "id": "30cd4b01e36ee3a92b21688999d9653a",
+    "title": "Alien Medic Serenity at the Futuristic Waterfall",
+    "description": "Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a futuristic waterfall",
+    "created": "2024-12-13 12:03:27.582395",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a futuristic waterfall",
+        "id": "fe64cd86675c4119ccc6f9026f8132ad",
+        "prompt_history": [
+            "Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a futuristic waterfall"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.938423",
+        "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a futuristic waterfall",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Medic Serenity at the Futuristic Waterfall"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-BFhxU3sBLmqKFw8KdQux4T4u.png?st=2024-12-13T11%3A03%3A21Z&se=2024-12-13T13%3A03%3A21Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T02%3A59%3A37Z&ske=2024-12-14T02%3A59%3A37Z&sks=b&skv=2024-08-04&sig=zc0aak6hXgr4bHYV2mgetcHTlCjpXOMeZ7edIuHz3ns%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/30cd4b01e36ee3a92b21688999d9653a/30cd4b01e36ee3a92b21688999d9653a.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
