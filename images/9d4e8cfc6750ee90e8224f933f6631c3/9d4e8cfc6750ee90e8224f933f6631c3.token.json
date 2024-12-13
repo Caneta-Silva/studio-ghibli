@@ -1,11 +1,11 @@
 {
     "id": "9d4e8cfc6750ee90e8224f933f6631c3",
-    "title": "Emperor of the Future: A Studio Ghibli-Inspired Masterpiece",
+    "title": "The Regal Futurist",
     "description": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
-    "created": "2024-12-04 18:38:56.159591",
+    "created": "2024-12-13 18:10:15.168984",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
-        "id": "f360b2aa1d897cc6310cc5f364b110fe",
+        "id": "3715701e438b4f9e240dae4dbf1eea65",
         "prompt_history": [
             "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-02 00:59:05.139505",
+        "seeded_at": "2024-12-02 00:59:05.131377",
         "seed_prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
         "metadata": {
             "element": "emperor",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "horse",
+            "backdrop": "desert",
+            "animal": "camel",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic alien"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -40,15 +40,15 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Emperor of the Future: A Studio Ghibli-Inspired Masterpiece"
+        "title": "The Regal Futurist"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-szTSV8a1nXPeCNLTmAWKNk2G.png?st=2024-12-04T17%3A38%3A49Z&se=2024-12-04T19%3A38%3A49Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T00%3A21%3A34Z&ske=2024-12-05T00%3A21%3A34Z&sks=b&skv=2024-08-04&sig=KtlbJmUuFmUf4TsgcW8BcNQ%2BG0%2Bomd0tXu33u9iZU5c%3D",
-        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg"
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-PHCGXV2vKUQSR9QIst0CjHpt.png?st=2024-12-13T17%3A10%3A08Z&se=2024-12-13T19%3A10%3A08Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T03%3A20%3A28Z&ske=2024-12-14T03%3A20%3A28Z&sks=b&skv=2024-08-04&sig=jN11Xunec5meue5awAUsejaKXGO7dkszwAvxANrVEjs%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg"
     },
     "tags": [],
     "model_version": "dall-e-2",
-    "name": "Neo Zephyr Emperor",
+    "name": "Emperor Lumituri",
     "symbol": "9D4E8CFC6",
-    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg"
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/9d4e8cfc6750ee90e8224f933f6631c3/9d4e8cfc6750ee90e8224f933f6631c3.jpg"
 }
