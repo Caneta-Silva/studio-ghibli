@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a futuristic waterfall",
+    "id": "fe64cd86675c4119ccc6f9026f8132ad",
+    "prompt_history": [
+        "Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a futuristic waterfall"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:05.938423",
+    "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a futuristic waterfall",
+    "metadata": {
+        "element": "medic",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "waterfall",
+        "animal": "gnu",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": true
+        },
+        "animal": false,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Alien Medic Serenity at the Futuristic Waterfall"
+}
