@@ -1,0 +1,51 @@
+{
+    "id": "c654236276bf5d988438d32d8385d073",
+    "title": "Futuristic Shaman in the World of Tomorrow",
+    "description": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+    "created": "2024-12-13 12:00:48.302795",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+        "id": "21d377dcfd816756e295b9721a54e1a5",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.117599",
+        "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Shaman in the World of Tomorrow"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-BvCC38aNV7NuRPSsoDOSNVVZ.png?st=2024-12-13T11%3A00%3A42Z&se=2024-12-13T13%3A00%3A42Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T02%3A59%3A09Z&ske=2024-12-14T02%3A59%3A09Z&sks=b&skv=2024-08-04&sig=7%2BGxy0HBACe7Cr2XQ70hg7MOr207IllinJVkJweURFI%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/c654236276bf5d988438d32d8385d073/c654236276bf5d988438d32d8385d073.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
