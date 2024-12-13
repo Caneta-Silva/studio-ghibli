@@ -1,0 +1,51 @@
+{
+    "id": "018f792811d9fc3d76862248e04af544",
+    "title": "Futuristic Paladin on Alien Camel in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a alien forest",
+    "created": "2024-12-13 14:02:07.076954",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a alien forest",
+        "id": "ee0668d0b2b699e24d81a8c9a457acaa",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a alien forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.501671",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a alien forest",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin on Alien Camel in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-sYVhP59jTc0oOuH1DJ18FEoe.png?st=2024-12-13T13%3A02%3A01Z&se=2024-12-13T15%3A02%3A01Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T05%3A15%3A55Z&ske=2024-12-14T05%3A15%3A55Z&sks=b&skv=2024-08-04&sig=Ufyn0vXsWAV/GVgSN3g3z/caEbFVpjFEnIkmxW3YcaE%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/018f792811d9fc3d76862248e04af544/018f792811d9fc3d76862248e04af544.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
