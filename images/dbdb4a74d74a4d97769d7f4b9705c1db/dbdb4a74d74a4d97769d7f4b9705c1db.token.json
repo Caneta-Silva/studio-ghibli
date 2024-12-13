@@ -1,0 +1,54 @@
+{
+    "id": "dbdb4a74d74a4d97769d7f4b9705c1db",
+    "title": "Ethereal Alien Tribe Chief in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+    "created": "2024-12-13 10:13:17.426966",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+        "id": "eb29d962189b87d6ce9018eb7d2a945f",
+        "prompt_history": [
+            "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.256916",
+        "seed_prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Ethereal Alien Tribe Chief in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-6nflcUaYCgGHe5twGXkUzMsh.png?st=2024-12-13T09%3A13%3A10Z&se=2024-12-13T11%3A13%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T08%3A37%3A13Z&ske=2024-12-14T08%3A37%3A13Z&sks=b&skv=2024-08-04&sig=5Gc8lBdKfBk7gfkm7ZPxgfO2rySfUbCWmb6LRb3rC2U%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Nova Glimmer",
+    "symbol": "DBDB4A74D",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg"
+}
