@@ -1,0 +1,54 @@
+{
+    "id": "3ff7b0fb9f4ed208c01cf134f1cb6f38",
+    "title": "Futuristic Paladin Guardian of the Alien Forest",
+    "description": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest",
+    "created": "2024-12-13 12:07:04.007072",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest",
+        "id": "6b1296e7ddff0e1ae796272c2b0a6772",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.506549",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin Guardian of the Alien Forest"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-CmA7er4txv0Ug2kWUBzr7P6I.png?st=2024-12-13T11%3A06%3A53Z&se=2024-12-13T13%3A06%3A53Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T03%3A31%3A53Z&ske=2024-12-14T03%3A31%3A53Z&sks=b&skv=2024-08-04&sig=7hkkLjfPFl2bPLTLh6GE7HGa5U6hktH3KokgDKM%2BOMg%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/3ff7b0fb9f4ed208c01cf134f1cb6f38/3ff7b0fb9f4ed208c01cf134f1cb6f38.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Galactic Forest Knight",
+    "symbol": "3FF7B0FB9",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/3ff7b0fb9f4ed208c01cf134f1cb6f38/3ff7b0fb9f4ed208c01cf134f1cb6f38.jpg"
+}
