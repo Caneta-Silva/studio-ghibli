@@ -1,11 +1,11 @@
 {
     "id": "bbe1f1e4f1bbc798b833b419a9eca3a0",
-    "title": "Futuristic Riot Police Robot: Studio Ghibli Inspired Landscape",
+    "title": "Futuristic Riot Police Robot in the Style of Studio Ghibli",
     "description": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-    "created": "2024-12-06 14:17:48.057245",
+    "created": "2024-12-13 04:30:01.095010",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
-        "id": "34da226065fe6b1d2f63c25c1d7e3144",
+        "id": "551e8b5e06f5b381ed854612044ff3af",
         "prompt_history": [
             "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
         ],
@@ -13,14 +13,14 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-02 00:59:05.049987",
+        "seeded_at": "2024-12-02 00:59:05.048155",
         "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
         "metadata": {
             "element": "riot police robot",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "rhino",
+            "backdrop": "forest",
+            "animal": "horse",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
@@ -40,11 +40,11 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Futuristic Riot Police Robot: Studio Ghibli Inspired Landscape"
+        "title": "Futuristic Riot Police Robot in the Style of Studio Ghibli"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-ITK4Iut4tg85sk3HL0KDqLmw.png?st=2024-12-06T13%3A17%3A41Z&se=2024-12-06T15%3A17%3A41Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T23%3A58%3A21Z&ske=2024-12-06T23%3A58%3A21Z&sks=b&skv=2024-08-04&sig=kuOriKkaIfMOsa2gSrTHSvroYzhlLheQ8uB11EqqyCA%3D",
-        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-2oYejMjswEiC1rU4Kz26PUYK.png?st=2024-12-13T03%3A29%3A53Z&se=2024-12-13T05%3A29%3A53Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T03%3A12%3A27Z&ske=2024-12-14T03%3A12%3A27Z&sks=b&skv=2024-08-04&sig=jL4EGq/B0vPcB2OZRZ8AqnchSv0C%2BKZ7ZMlbVGmxMow%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/bbe1f1e4f1bbc798b833b419a9eca3a0/bbe1f1e4f1bbc798b833b419a9eca3a0.jpg"
     },
     "tags": [],
     "model_version": "dall-e-2"
