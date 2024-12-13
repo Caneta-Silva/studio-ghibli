@@ -1,0 +1,51 @@
+{
+    "id": "eedccb49d8a9619ae8925896dfd5ab75",
+    "title": "Alien Paladin Military in an Enchanted Forest",
+    "description": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli against the backdrop of a alien forest",
+    "created": "2024-12-13 18:52:33.699538",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli against the backdrop of a alien forest",
+        "id": "ae9af2514fb715b1acb0ee33520cad7c",
+        "prompt_history": [
+            "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli against the backdrop of a alien forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.796985",
+        "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli against the backdrop of a alien forest",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Paladin Military in an Enchanted Forest"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-M0ijSRBtD9RCcjDgJV0G3EQf.png?st=2024-12-13T17%3A52%3A26Z&se=2024-12-13T19%3A52%3A26Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T03%3A41%3A08Z&ske=2024-12-14T03%3A41%3A08Z&sks=b&skv=2024-08-04&sig=0rKaLCcT6CpuBw%2BaezkC%2B9B7NaNcf9asczEez0rd71g%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/eedccb49d8a9619ae8925896dfd5ab75/eedccb49d8a9619ae8925896dfd5ab75.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
