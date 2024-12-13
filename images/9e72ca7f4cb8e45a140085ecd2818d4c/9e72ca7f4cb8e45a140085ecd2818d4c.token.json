@@ -1,0 +1,54 @@
+{
+    "id": "9e72ca7f4cb8e45a140085ecd2818d4c",
+    "title": "Futuristic Tribe Warrior at Alien Waterfall",
+    "description": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien waterfall",
+    "created": "2024-12-13 12:29:16.467815",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien waterfall",
+        "id": "91d29113e22718af3d99549d7e3b3258",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien waterfall"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.628098",
+        "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli against the backdrop of a futuristic alien waterfall",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Tribe Warrior at Alien Waterfall"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-KEVA1kVaUPCB7keWPLt3rOSf.png?st=2024-12-13T11%3A29%3A10Z&se=2024-12-13T13%3A29%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T03%3A47%3A28Z&ske=2024-12-14T03%3A47%3A28Z&sks=b&skv=2024-08-04&sig=V4sppEX/KRIgO5%2Bn0J73eYQMerf/eHmwhH%2B8HDN8MLg%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/9e72ca7f4cb8e45a140085ecd2818d4c/9e72ca7f4cb8e45a140085ecd2818d4c.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Aurora Blade: Warrior of the Starfall Oasis",
+    "symbol": "9E72CA7F4",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/9e72ca7f4cb8e45a140085ecd2818d4c/9e72ca7f4cb8e45a140085ecd2818d4c.jpg"
+}
