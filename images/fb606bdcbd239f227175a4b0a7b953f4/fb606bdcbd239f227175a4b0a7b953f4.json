@@ -1,0 +1,51 @@
+{
+    "id": "fb606bdcbd239f227175a4b0a7b953f4",
+    "title": "The Shaman's Journey: Galactic Giraffe in the Enchanted Forest",
+    "description": "Create a landscape full body image of a futuristic shaman mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+    "created": "2024-12-14 19:12:52.860828",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic shaman mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+        "id": "133f9b2fefb967cb6b78f3d89db68cd2",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic shaman mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a alien tropical forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.585874",
+        "seed_prompt": "Create a landscape full body image of a futuristic shaman mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a alien tropical forest",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "The Shaman's Journey: Galactic Giraffe in the Enchanted Forest"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-sOQy99fck3lt2PwzwGVP1oV2.png?st=2024-12-14T18%3A12%3A45Z&se=2024-12-14T20%3A12%3A45Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A19%3A31Z&ske=2024-12-15T03%3A19%3A31Z&sks=b&skv=2024-08-04&sig=hWWjSA7MJANy4qF0mHuzORgZMM9O%2BiOf6ucJIVZUL0U%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/fb606bdcbd239f227175a4b0a7b953f4/fb606bdcbd239f227175a4b0a7b953f4.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2"
+}
