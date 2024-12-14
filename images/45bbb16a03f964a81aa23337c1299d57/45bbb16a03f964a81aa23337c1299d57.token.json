@@ -1,0 +1,54 @@
+{
+    "id": "45bbb16a03f964a81aa23337c1299d57",
+    "title": "The Alien Emperor and the Alien Deer in the Desert",
+    "description": "Create a landscape full body image of a alien emperor mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a alien desert",
+    "created": "2024-12-14 19:27:00.634590",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien emperor mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a alien desert",
+        "id": "f918763f8e7bbf4b63a68d5cc9078b1a",
+        "prompt_history": [
+            "Create a landscape full body image of a alien emperor mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a alien desert"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.771471",
+        "seed_prompt": "Create a landscape full body image of a alien emperor mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a alien desert",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "The Alien Emperor and the Alien Deer in the Desert"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-T6cKKNl6pmO1h29DQFAh1uUH.png?st=2024-12-14T18%3A26%3A54Z&se=2024-12-14T20%3A26%3A54Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A38%3A51Z&ske=2024-12-15T03%3A38%3A51Z&sks=b&skv=2024-08-04&sig=uPvpQUeJX7i66PSZfIyEmiXVhHkGjOrIf/6a3KjJeqw%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/45bbb16a03f964a81aa23337c1299d57/45bbb16a03f964a81aa23337c1299d57.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Galactic Sovereign's Ride",
+    "symbol": "45BBB16A0",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/45bbb16a03f964a81aa23337c1299d57/45bbb16a03f964a81aa23337c1299d57.jpg"
+}
