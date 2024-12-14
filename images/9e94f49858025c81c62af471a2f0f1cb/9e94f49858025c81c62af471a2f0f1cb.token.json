@@ -1,0 +1,54 @@
+{
+    "id": "9e94f49858025c81c62af471a2f0f1cb",
+    "title": "Emperor of the Future Cosmos",
+    "description": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+    "created": "2024-12-14 19:53:24.107772",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+        "id": "686e354b1cd560d1dc73df8fd2aff926",
+        "prompt_history": [
+            "Create a landscape full body image of a alien emperor in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.902458",
+        "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli against the backdrop of a futuristic alien spaceship",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Emperor of the Future Cosmos"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-NjwkmkP4VcGoRtYvbDfzJmof.png?st=2024-12-14T18%3A53%3A17Z&se=2024-12-14T20%3A53%3A17Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A32%3A13Z&ske=2024-12-15T03%3A32%3A13Z&sks=b&skv=2024-08-04&sig=7cgZxz7FWb3RdQ2qpvSQEklKqqoHmOYHvA0%2BJxKzEIo%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/9e94f49858025c81c62af471a2f0f1cb/9e94f49858025c81c62af471a2f0f1cb.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": null,
+    "symbol": "9E94F4985",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/9e94f49858025c81c62af471a2f0f1cb/9e94f49858025c81c62af471a2f0f1cb.jpg"
+}
