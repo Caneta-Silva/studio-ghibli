@@ -1,0 +1,54 @@
+{
+    "id": "5f5335be64d97f1ceaeb494a9ef6bb01",
+    "title": "Alien Firefighter in the Enigmatic Alien Desert",
+    "description": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli against the backdrop of a futuristic alien desert landscape",
+    "created": "2024-12-14 16:08:53.540897",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli against the backdrop of a futuristic alien desert landscape",
+        "id": "8a4537ce75490b5bb1099ff36b7ad316",
+        "prompt_history": [
+            "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli against the backdrop of a futuristic alien desert landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.931791",
+        "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli against the backdrop of a futuristic alien desert landscape",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert landscape",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Firefighter in the Enigmatic Alien Desert"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-MCyQ6Gx5yiu3y8UZlR4XNrxu.png?st=2024-12-14T15%3A08%3A47Z&se=2024-12-14T17%3A08%3A47Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A12%3A43Z&ske=2024-12-15T03%3A12%3A43Z&sks=b&skv=2024-08-04&sig=yzMU9fo1S/KP51boXXzMH54aqNx4o1mRfwn/0kI/F6Q%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/5f5335be64d97f1ceaeb494a9ef6bb01/5f5335be64d97f1ceaeb494a9ef6bb01.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Nova Sentinel",
+    "symbol": "5F5335BE6",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/5f5335be64d97f1ceaeb494a9ef6bb01/5f5335be64d97f1ceaeb494a9ef6bb01.jpg"
+}
