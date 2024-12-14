@@ -1,0 +1,54 @@
+{
+    "id": "2cd90c998a2970069e47fd6bf50fd7f1",
+    "title": "Futuristic Alien Medic in Ghibli Style: A Healing Presence Amidst Alien Martial Landscape",
+    "description": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+    "created": "2024-12-14 15:33:39.245315",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+        "id": "22de8bdec9d2c5de15fdb1e8d6e055b6",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:06.129042",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Medic in Ghibli Style: A Healing Presence Amidst Alien Martial Landscape"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-8BJufxa95YKtBFYABNaPosRJ.png?st=2024-12-14T14%3A33%3A32Z&se=2024-12-14T16%3A33%3A32Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A28%3A03Z&ske=2024-12-15T03%3A28%3A03Z&sks=b&skv=2024-08-04&sig=Cl0MvcfKhrgK79B/Nt6bW8sjzJWVaNsksaxNkXzKd7M%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/2cd90c998a2970069e47fd6bf50fd7f1/2cd90c998a2970069e47fd6bf50fd7f1.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Nebulon Medic Chronicles",
+    "symbol": "2CD90C998",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/2cd90c998a2970069e47fd6bf50fd7f1/2cd90c998a2970069e47fd6bf50fd7f1.jpg"
+}
