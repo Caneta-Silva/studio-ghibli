@@ -1,0 +1,39 @@
+{
+    "prompt": "Create a landscape full body image of a alien emperor mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a alien desert",
+    "id": "f918763f8e7bbf4b63a68d5cc9078b1a",
+    "prompt_history": [
+        "Create a landscape full body image of a alien emperor mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a alien desert"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:04.771471",
+    "seed_prompt": "Create a landscape full body image of a alien emperor mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a alien desert",
+    "metadata": {
+        "element": "emperor",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "desert",
+        "animal": "deer",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "The Alien Emperor and the Alien Deer in the Desert"
+}
