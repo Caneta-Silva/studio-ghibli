@@ -48,7 +48,30 @@
     },
     "tags": [],
     "model_version": "stablediffusion",
-    "name": "Ghibli Alien Chief",
-    "symbol": "DBDB4A74D",
-    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg"
+    "name": "Kuroki, Chief of the Celestial Tribe",
+    "symbol": "DBDB4",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/dbdb4a74d74a4d97769d7f4b9705c1db/dbdb4a74d74a4d97769d7f4b9705c1db.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
 }
