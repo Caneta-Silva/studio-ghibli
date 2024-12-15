@@ -1,0 +1,54 @@
+{
+    "id": "fdd46d38f443c528c490fe04786f4081",
+    "title": "Tribal Chief of the Futuristic Alien Tribe in the Enchanted Forest",
+    "description": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+    "created": "2024-12-15 17:09:52.544787",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+        "id": "5fdc552b4963037d8f6a9f152820385f",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a futuristic tropical forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:06.023559",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Tribal Chief of the Futuristic Alien Tribe in the Enchanted Forest"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641091675750.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/fdd46d38f443c528c490fe04786f4081/fdd46d38f443c528c490fe04786f4081.jpg"
+    },
+    "tags": [],
+    "model_version": "stablediffusion",
+    "name": "Nalu Prime Chief",
+    "symbol": "FDD46D38F",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/fdd46d38f443c528c490fe04786f4081/fdd46d38f443c528c490fe04786f4081.jpg"
+}
