@@ -1,0 +1,77 @@
+{
+    "id": "758625e6e0b047aaa75c4a230cc243f6",
+    "title": "Futuristic Alien Tribe Warrior of Studio Ghibli",
+    "description": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli against the backdrop of a alien fortress",
+    "created": "2024-12-15 15:30:27.367949",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli against the backdrop of a alien fortress",
+        "id": "15add6cba3db7b2db746439f5db4569d",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli against the backdrop of a alien fortress"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:06.014539",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Tribe Warrior of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643370308444.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/758625e6e0b047aaa75c4a230cc243f6/758625e6e0b047aaa75c4a230cc243f6.jpg"
+    },
+    "tags": [],
+    "model_version": "stablediffusion",
+    "name": "GhibliAlienWarriorTribe",
+    "symbol": "758",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/758625e6e0b047aaa75c4a230cc243f6/758625e6e0b047aaa75c4a230cc243f6.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/758625e6e0b047aaa75c4a230cc243f6/758625e6e0b047aaa75c4a230cc243f6.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
