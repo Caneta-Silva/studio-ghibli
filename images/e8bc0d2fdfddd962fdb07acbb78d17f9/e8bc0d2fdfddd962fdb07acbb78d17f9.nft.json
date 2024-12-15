@@ -1,0 +1,77 @@
+{
+    "id": "e8bc0d2fdfddd962fdb07acbb78d17f9",
+    "title": "Futuristic Alien Medic and Rhino in a Lush Alien Forest",
+    "description": "Create a landscape full body image of a futuristic alien medic mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest",
+    "created": "2024-12-15 14:58:57.675898",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien medic mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest",
+        "id": "4896ec2586d9bb3d52391a198174e742",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien medic mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.994210",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien medic mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien tropical forest",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Medic and Rhino in a Lush Alien Forest"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642587529043.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e8bc0d2fdfddd962fdb07acbb78d17f9/e8bc0d2fdfddd962fdb07acbb78d17f9.jpg"
+    },
+    "tags": [],
+    "model_version": "stablediffusion",
+    "name": "GalactiRhino Healer",
+    "symbol": "E8BC0D2FD",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e8bc0d2fdfddd962fdb07acbb78d17f9/e8bc0d2fdfddd962fdb07acbb78d17f9.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e8bc0d2fdfddd962fdb07acbb78d17f9/e8bc0d2fdfddd962fdb07acbb78d17f9.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
