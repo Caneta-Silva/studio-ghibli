@@ -1,0 +1,51 @@
+{
+    "id": "64789276b61efa9980d4de5be2f177ea",
+    "title": "Futuristic Alien Tribe Warrior Riding an Alien Deer with Spaceship Background",
+    "description": "Create a landscape full body image of a futuristic alien tribe warrior mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic spaceship",
+    "created": "2024-12-15 18:25:54.543118",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe warrior mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic spaceship",
+        "id": "4a28f6af08dcf1887455ffc1d851656e",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe warrior mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.884654",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic spaceship",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Tribe Warrior Riding an Alien Deer with Spaceship Background"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642792302168.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/64789276b61efa9980d4de5be2f177ea/64789276b61efa9980d4de5be2f177ea.jpg"
+    },
+    "tags": [],
+    "model_version": "stablediffusion"
+}
