@@ -1,0 +1,54 @@
+{
+    "id": "2ca0d1f560d2460171a0e6795447af96",
+    "title": "Futuristic Shaman on Alien Elephant in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic shaman mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+    "created": "2024-12-15 17:45:12.855612",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic shaman mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+        "id": "c5879c43e9410e3feda783265aeb7471",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic shaman mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic tropical forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.580324",
+        "seed_prompt": "Create a landscape full body image of a futuristic shaman mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic tropical forest",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Shaman on Alien Elephant in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641699644299.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/2ca0d1f560d2460171a0e6795447af96/2ca0d1f560d2460171a0e6795447af96.jpg"
+    },
+    "tags": [],
+    "model_version": "stablediffusion",
+    "name": "Futuric Shaman of the Celestial Elephant",
+    "symbol": "2CA0D1F56",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/2ca0d1f560d2460171a0e6795447af96/2ca0d1f560d2460171a0e6795447af96.jpg"
+}
