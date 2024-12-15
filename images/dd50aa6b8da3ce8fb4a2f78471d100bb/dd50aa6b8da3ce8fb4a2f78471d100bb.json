@@ -1,0 +1,51 @@
+{
+    "id": "dd50aa6b8da3ce8fb4a2f78471d100bb",
+    "title": "Alien Medic and Giraffe-Like Creature in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a alien medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic spaceship",
+    "created": "2024-12-15 18:17:01.644624",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic spaceship",
+        "id": "92ac3f1b249d66281d0c3725ee8019fa",
+        "prompt_history": [
+            "Create a landscape full body image of a alien medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.817772",
+        "seed_prompt": "Create a landscape full body image of a alien medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic spaceship",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Medic and Giraffe-Like Creature in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64951420918.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/dd50aa6b8da3ce8fb4a2f78471d100bb/dd50aa6b8da3ce8fb4a2f78471d100bb.jpg"
+    },
+    "tags": [],
+    "model_version": "stablediffusion"
+}
