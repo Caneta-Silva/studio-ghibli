@@ -1,0 +1,54 @@
+{
+    "id": "600176b3b2782838f4d8c6c66aa10782",
+    "title": "Futuristic Alien Riot Police Robot Riding an Alien Giraffe in a Studio Ghibli-Style Forest",
+    "description": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic forest",
+    "created": "2024-12-15 17:12:22.481238",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic forest",
+        "id": "34ed6a7291fc96be7138007718a2539f",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.850528",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic forest",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Riot Police Robot Riding an Alien Giraffe in a Studio Ghibli-Style Forest"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642994099563.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/600176b3b2782838f4d8c6c66aa10782/600176b3b2782838f4d8c6c66aa10782.jpg"
+    },
+    "tags": [],
+    "model_version": "stablediffusion",
+    "name": "Giraftron",
+    "symbol": "600176B3B",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/600176b3b2782838f4d8c6c66aa10782/600176b3b2782838f4d8c6c66aa10782.jpg"
+}
