@@ -447,6 +447,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 dd50aa6b8da3ce8fb4a2f78471d100bb 
+
+![data.id](./dd50aa6b8da3ce8fb4a2f78471d100bb/dd50aa6b8da3ce8fb4a2f78471d100bb.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | dd50aa6b8da3ce8fb4a2f78471d100bb                                                                                                             |
+| **Title**           | Alien Medic and Giraffe-Like Creature in Studio Ghibli Style                                                                                                       |
+| **Description**           | Create a landscape full body image of a alien medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic spaceship                                                                                                       |
+| **CreatedAt**        | 2024-12-15 18:17:01.644624                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b64951420918.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/dd50aa6b8da3ce8fb4a2f78471d100bb/dd50aa6b8da3ce8fb4a2f78471d100bb.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 92ac3f1b249d66281d0c3725ee8019fa
+
+> Create a landscape full body image of a alien medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic spaceship
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 92ac3f1b249d66281d0c3725ee8019fa                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** medic <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** giraffe <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
 ### 📷 3a16d7d7a028c844e304cb1fd4431f42 
 
 ![data.id](./3a16d7d7a028c844e304cb1fd4431f42/3a16d7d7a028c844e304cb1fd4431f42.jpg)
@@ -552,26 +584,26 @@
 | **Image ID**             | e46ea160cb294451411f238a112f5c62                                                                                                             |
 | **Title**           | Futuristic Paladin Military in Studio Ghibli Style                                                                                                       |
 | **Description**           | Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli                                                                                                       |
-| **CreatedAt**        | 2024-12-14 12:47:18.471902                                                                                                        |
-| **Model**        | dall-e-2                                                                                                        |
-| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-T92dRuG9tbpnTAF5m64nPBj1.png?st=2024-12-14T11%3A47%3A11Z&se=2024-12-14T13%3A47%3A11Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A34%3A35Z&ske=2024-12-15T03%3A34%3A35Z&sks=b&skv=2024-08-04&sig=DHz1SwVhGAe4ozm6ettDF9D3zWd5XelPrkpu4aNdqcQ%3D)                                                                                |
+| **CreatedAt**        | 2024-12-15 18:22:55.328005                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b643939097651.png)                                                                                |
 | **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg)                                                                                |
 | **Tags**       | None                                                                                                                   |
 
-### 📜 89d5b297eecc495b87a5f41062d3126c
+### 📜 51633ae11353512624854348d5f0c64e
 
 > Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli
 
 | Field          | Value                                                                                                                                                                      |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Prompt ID**  | 89d5b297eecc495b87a5f41062d3126c                                                                                                                                                            |
+| **Prompt ID**  | 51633ae11353512624854348d5f0c64e                                                                                                                                                            |
 | **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
 | **Created At** |                                                                                                                                                    |
 | **Revised At** | None                                                                                                                                                   |
 | **Revised Prompt** | No                                                                                                                                                                      |
 | **Enhanced At** | None                                                                                                                                                  |
 | **Enhanced Prompt** | No                                                                                                                                                                    |
-| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** desert <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** alien</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
 
 
@@ -895,6 +927,70 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
 
 
+### 📷 7999897108c53c08d0d2bf2f70fe0bb5 
+
+![data.id](./7999897108c53c08d0d2bf2f70fe0bb5/7999897108c53c08d0d2bf2f70fe0bb5.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 7999897108c53c08d0d2bf2f70fe0bb5                                                                                                             |
+| **Title**           | Alien Riot Police Robot: A Ghibli-Inspired Adventure                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli against the backdrop of a alien spaceship                                                                                                       |
+| **CreatedAt**        | 2024-12-15 17:48:16.024518                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b642224062197.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/7999897108c53c08d0d2bf2f70fe0bb5/7999897108c53c08d0d2bf2f70fe0bb5.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 7ef9ca92a26dede6ba5e90b6f544fb2f
+
+> Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli against the backdrop of a alien spaceship
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 7ef9ca92a26dede6ba5e90b6f544fb2f                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** riot police robot <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 2ca0d1f560d2460171a0e6795447af96 
+
+![data.id](./2ca0d1f560d2460171a0e6795447af96/2ca0d1f560d2460171a0e6795447af96.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 2ca0d1f560d2460171a0e6795447af96                                                                                                             |
+| **Title**           | Futuristic Shaman on Alien Elephant in Studio Ghibli Style                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic shaman mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic tropical forest                                                                                                       |
+| **CreatedAt**        | 2024-12-15 17:45:12.855612                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b641699644299.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/2ca0d1f560d2460171a0e6795447af96/2ca0d1f560d2460171a0e6795447af96.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 c5879c43e9410e3feda783265aeb7471
+
+> Create a landscape full body image of a futuristic shaman mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic tropical forest
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | c5879c43e9410e3feda783265aeb7471                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** shaman <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** tropical forest <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
 ### 📷 708ff1d7797067a42b02f5cf1bf57745 
 
 ![data.id](./708ff1d7797067a42b02f5cf1bf57745/708ff1d7797067a42b02f5cf1bf57745.jpg)
@@ -1032,26 +1128,26 @@
 | **Image ID**             | bb4046d7f96e384e918feb69c54428e3                                                                                                             |
 | **Title**           | Futuristic Tribe Warrior of the Enchanted Forest                                                                                                       |
 | **Description**           | Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli                                                                                                       |
-| **CreatedAt**        | 2024-12-06 14:41:50.901266                                                                                                        |
-| **Model**        | dall-e-2                                                                                                        |
-| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-zansro7i55E4f5d2VqsqgIOJ.png?st=2024-12-06T13%3A41%3A43Z&se=2024-12-06T15%3A41%3A43Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-06T00%3A13%3A12Z&ske=2024-12-07T00%3A13%3A12Z&sks=b&skv=2024-08-04&sig=PSzUlyIljOw7eMzM9ts2iIGcgpjv4EZXMOS2iYtRSlE%3D)                                                                                |
-| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg)                                                                                |
+| **CreatedAt**        | 2024-12-15 18:15:01.583847                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b644173826167.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/bb4046d7f96e384e918feb69c54428e3/bb4046d7f96e384e918feb69c54428e3.jpg)                                                                                |
 | **Tags**       | None                                                                                                                   |
 
-### 📜 c2ec2998317a1c1b7732fe436bdb705c
+### 📜 2ef211ae693b64c4b37cc95f2fefae88
 
 > Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli
 
 | Field          | Value                                                                                                                                                                      |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Prompt ID**  | c2ec2998317a1c1b7732fe436bdb705c                                                                                                                                                            |
+| **Prompt ID**  | 2ef211ae693b64c4b37cc95f2fefae88                                                                                                                                                            |
 | **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
 | **Created At** |                                                                                                                                                    |
 | **Revised At** | None                                                                                                                                                   |
 | **Revised Prompt** | No                                                                                                                                                                      |
 | **Enhanced At** | None                                                                                                                                                  |
 | **Enhanced Prompt** | No                                                                                                                                                                    |
-| **Metadata**   | <ul><li>**Element:** tribe warrior <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** tropical forest <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
+| **Metadata**   | <ul><li>**Element:** tribe warrior <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** tropical forest <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** alien</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
 
 
@@ -1341,6 +1437,38 @@
 | **Enhanced Prompt** | No                                                                                                                                                                    |
 | **Metadata**   | <ul><li>**Element:** medic <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** forest <br> **Animal:** camel <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 7bd399321e0e73a699d54e739916d31a 
+
+![data.id](./7bd399321e0e73a699d54e739916d31a/7bd399321e0e73a699d54e739916d31a.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 7bd399321e0e73a699d54e739916d31a                                                                                                             |
+| **Title**           | Futuristic Alien Emperor Riding Alien-like Deer in Studio Ghibli Style                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic alien emperor mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic spaceship                                                                                                       |
+| **CreatedAt**        | 2024-12-15 18:12:24.422264                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b641931535166.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/7bd399321e0e73a699d54e739916d31a/7bd399321e0e73a699d54e739916d31a.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 a049e721918a46ea5a06c558bb43de1f
+
+> Create a landscape full body image of a futuristic alien emperor mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic spaceship
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | a049e721918a46ea5a06c558bb43de1f                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** emperor <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
 ### 📷 8d6bbe136a0cc5bd1766be5ed2fb7dd2 
@@ -1894,28 +2022,28 @@
 | Field          | Value                                                                                                                     |
 |----------------|---------------------------------------------------------------------------------------------------------------------------|
 | **Image ID**             | 1d7ebb4309e39724e978fe7184ba57f2                                                                                                             |
-| **Title**           | Alien Medic Serenity                                                                                                       |
+| **Title**           | Alien Medic in the Studio Ghibli Style                                                                                                       |
 | **Description**           | Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a alien desert                                                                                                       |
-| **CreatedAt**        | 2024-12-05 09:59:59.372775                                                                                                        |
-| **Model**        | dall-e-2                                                                                                        |
-| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-oXJhzZnpdRwVuYOXRUvf9OQO.png?st=2024-12-05T08%3A59%3A50Z&se=2024-12-05T10%3A59%3A50Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T08%3A35%3A35Z&ske=2024-12-06T08%3A35%3A35Z&sks=b&skv=2024-08-04&sig=Rv0bb0Uor8tEiBjLDxuKdt6L9RWZE7aQL1NwRw9pQJ8%3D)                                                                                |
-| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/1d7ebb4309e39724e978fe7184ba57f2/1d7ebb4309e39724e978fe7184ba57f2.jpg)                                                                                |
+| **CreatedAt**        | 2024-12-15 18:23:04.594267                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b642010291435.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/1d7ebb4309e39724e978fe7184ba57f2/1d7ebb4309e39724e978fe7184ba57f2.jpg)                                                                                |
 | **Tags**       | None                                                                                                                   |
 
-### 📜 f3778e514d3e2e317061d43bb5a7f0d7
+### 📜 a114561edaacae34091e364efaea881f
 
 > Create a landscape full body image of a alien medic in the style of Studio Ghibli against the backdrop of a alien desert
 
 | Field          | Value                                                                                                                                                                      |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Prompt ID**  | f3778e514d3e2e317061d43bb5a7f0d7                                                                                                                                                            |
+| **Prompt ID**  | a114561edaacae34091e364efaea881f                                                                                                                                                            |
 | **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
 | **Created At** |                                                                                                                                                    |
 | **Revised At** | None                                                                                                                                                   |
 | **Revised Prompt** | No                                                                                                                                                                      |
 | **Enhanced At** | None                                                                                                                                                  |
 | **Enhanced Prompt** | No                                                                                                                                                                    |
-| **Metadata**   | <ul><li>**Element:** medic <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** desert <br> **Animal:** horse <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Metadata**   | <ul><li>**Element:** medic <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** desert <br> **Animal:** rhino <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
@@ -2568,27 +2696,59 @@
 | **Image ID**             | 2692d5d19ec6b47f5ee135f3261135d0                                                                                                             |
 | **Title**           | Alien Paladin Military in Studio Ghibli Style                                                                                                       |
 | **Description**           | Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli                                                                                                       |
-| **CreatedAt**        | 2024-12-14 13:22:06.030956                                                                                                        |
-| **Model**        | dall-e-2                                                                                                        |
-| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-Rj0CXiPUvpBQh23BhICIVvqP.png?st=2024-12-14T12%3A21%3A59Z&se=2024-12-14T14%3A21%3A59Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T04%3A53%3A03Z&ske=2024-12-15T04%3A53%3A03Z&sks=b&skv=2024-08-04&sig=7ZT4omSybN754ufZjwhRCNPtT%2BOP70OTIfBiqYlakSw%3D)                                                                                |
+| **CreatedAt**        | 2024-12-15 18:17:40.418400                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b642833567700.png)                                                                                |
 | **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/2692d5d19ec6b47f5ee135f3261135d0/2692d5d19ec6b47f5ee135f3261135d0.jpg)                                                                                |
 | **Tags**       | None                                                                                                                   |
 
-### 📜 c0648b91f43a2fe19a09fdc9b5113509
+### 📜 23ac7642b123768a6a46b7447f2cc727
 
 > Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli
 
 | Field          | Value                                                                                                                                                                      |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Prompt ID**  | c0648b91f43a2fe19a09fdc9b5113509                                                                                                                                                            |
+| **Prompt ID**  | 23ac7642b123768a6a46b7447f2cc727                                                                                                                                                            |
 | **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
 | **Created At** |                                                                                                                                                    |
 | **Revised At** | None                                                                                                                                                   |
 | **Revised Prompt** | No                                                                                                                                                                      |
 | **Enhanced At** | None                                                                                                                                                  |
 | **Enhanced Prompt** | No                                                                                                                                                                    |
-| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Metadata**   | <ul><li>**Element:** paladin style military <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** horse <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
+### 📷 bc0f187551cb218c5325cb342cdb8381 
+
+![data.id](./bc0f187551cb218c5325cb342cdb8381/bc0f187551cb218c5325cb342cdb8381.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | bc0f187551cb218c5325cb342cdb8381                                                                                                             |
+| **Title**           | Warrior of the Alien Desert Tribe                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic alien desert tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape                                                                                                       |
+| **CreatedAt**        | 2024-12-15 18:04:01.047061                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b643715598769.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/bc0f187551cb218c5325cb342cdb8381/bc0f187551cb218c5325cb342cdb8381.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 585621e6f153813e5ba87f9ef4872683
+
+> Create a landscape full body image of a futuristic alien desert tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 585621e6f153813e5ba87f9ef4872683                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** desert tribe warrior <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** gnu <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
 ### 📷 b2be3e84ab25b606e7e18852e68b5c9a 
@@ -2630,28 +2790,28 @@
 | Field          | Value                                                                                                                     |
 |----------------|---------------------------------------------------------------------------------------------------------------------------|
 | **Image ID**             | ae41bafc14b4099a860f5590df3aac48                                                                                                             |
-| **Title**           | Galactic Healer: An Alien Medic in the Style of Studio Ghibli                                                                                                       |
+| **Title**           | Alien Medic in Studio Ghibli Style                                                                                                       |
 | **Description**           | Create a landscape full body image of a alien medic in the style of Studio Ghibli                                                                                                       |
-| **CreatedAt**        | 2024-12-04 15:21:13.135756                                                                                                        |
-| **Model**        | dall-e-2                                                                                                        |
-| **OpenAI**         | [OpenAI Image URL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-fAa7nHoiG6uDZeEkSYDD9gbh.png?st=2024-12-04T14%3A21%3A07Z&se=2024-12-04T16%3A21%3A07Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T01%3A07%3A51Z&ske=2024-12-05T01%3A07%3A51Z&sks=b&skv=2024-08-04&sig=V73R3ukNaRW655T7%2B3ymTduRjKSbK5Weke5bIB92MQ8%3D)                                                                                |
-| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg?raw=true)                                                                                |
+| **CreatedAt**        | 2024-12-15 17:40:58.301064                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b64433972409.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg)                                                                                |
 | **Tags**       | None                                                                                                                   |
 
-### 📜 07a88671c6168d32c2261e361141efbf
+### 📜 5faf8552b0bac04de7d065b63a81f150
 
 > Create a landscape full body image of a alien medic in the style of Studio Ghibli
 
 | Field          | Value                                                                                                                                                                      |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Prompt ID**  | 07a88671c6168d32c2261e361141efbf                                                                                                                                                            |
+| **Prompt ID**  | 5faf8552b0bac04de7d065b63a81f150                                                                                                                                                            |
 | **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
 | **Created At** |                                                                                                                                                    |
 | **Revised At** | None                                                                                                                                                   |
 | **Revised Prompt** | No                                                                                                                                                                      |
 | **Enhanced At** | None                                                                                                                                                  |
 | **Enhanced Prompt** | No                                                                                                                                                                    |
-| **Metadata**   | <ul><li>**Element:** medic <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Metadata**   | <ul><li>**Element:** medic <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** waterfall <br> **Animal:** rhino <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
 
 
@@ -3263,6 +3423,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 64789276b61efa9980d4de5be2f177ea 
+
+![data.id](./64789276b61efa9980d4de5be2f177ea/64789276b61efa9980d4de5be2f177ea.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 64789276b61efa9980d4de5be2f177ea                                                                                                             |
+| **Title**           | Futuristic Alien Tribe Warrior Riding an Alien Deer with Spaceship Background                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic alien tribe warrior mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic spaceship                                                                                                       |
+| **CreatedAt**        | 2024-12-15 18:25:54.543118                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b642792302168.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/64789276b61efa9980d4de5be2f177ea/64789276b61efa9980d4de5be2f177ea.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 4a28f6af08dcf1887455ffc1d851656e
+
+> Create a landscape full body image of a futuristic alien tribe warrior mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic spaceship
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 4a28f6af08dcf1887455ffc1d851656e                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** tribe warrior <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** deer <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
 ### 📷 2b77988ecde018cc02efe1769c68ac1e 
 
 ![data.id](./2b77988ecde018cc02efe1769c68ac1e/2b77988ecde018cc02efe1769c68ac1e.jpg)
@@ -3679,6 +3871,38 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 c298e2236000b62554c13581b13668bd 
+
+![data.id](./c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | c298e2236000b62554c13581b13668bd                                                                                                             |
+| **Title**           | The Supreme Alien Emperor of the Ghibli Universe                                                                                                       |
+| **Description**           | Create a landscape full body image of a alien emperor in the style of Studio Ghibli                                                                                                       |
+| **CreatedAt**        | 2024-12-15 18:08:13.063713                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b64212593999.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/c298e2236000b62554c13581b13668bd/c298e2236000b62554c13581b13668bd.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 2593727b0d98e323914a26518ee7194f
+
+> Create a landscape full body image of a alien emperor in the style of Studio Ghibli
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 2593727b0d98e323914a26518ee7194f                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** emperor <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** giraffe <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** alien</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}                                                                                                                                           |
+
+
 ### 📷 8efd136c280dc2fcbfbab976c54dcdbf 
 
 ![data.id](./8efd136c280dc2fcbfbab976c54dcdbf/8efd136c280dc2fcbfbab976c54dcdbf.jpg)
@@ -3807,6 +4031,70 @@
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
+### 📷 19009fa63f0e4612415914211a033546 
+
+![data.id](./19009fa63f0e4612415914211a033546/19009fa63f0e4612415914211a033546.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 19009fa63f0e4612415914211a033546                                                                                                             |
+| **Title**           | Futuristic Tribe Chief and Alien Rhino in Studio Ghibli Style                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic tribe chief mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien waterfall                                                                                                       |
+| **CreatedAt**        | 2024-12-15 18:20:12.155801                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b644032904251.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/19009fa63f0e4612415914211a033546/19009fa63f0e4612415914211a033546.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 c29b2ecafa5994251edd4c587d85f705
+
+> Create a landscape full body image of a futuristic tribe chief mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien waterfall
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | c29b2ecafa5994251edd4c587d85f705                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** tribe chief <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** waterfall <br> **Animal:** rhino <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** futuristic alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 87feb8400370fd9d1a5946f6026a323c 
+
+![data.id](./87feb8400370fd9d1a5946f6026a323c/87feb8400370fd9d1a5946f6026a323c.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 87feb8400370fd9d1a5946f6026a323c                                                                                                             |
+| **Title**           | Futuristic Alien Medic at Alien Fortress                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli against the backdrop of a alien fortress                                                                                                       |
+| **CreatedAt**        | 2024-12-15 18:01:28.567976                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b644050169027.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/87feb8400370fd9d1a5946f6026a323c/87feb8400370fd9d1a5946f6026a323c.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 f8d3270fe5074cb22e97635a9f12515b
+
+> Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli against the backdrop of a alien fortress
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | f8d3270fe5074cb22e97635a9f12515b                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** medic <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** fortress <br> **Animal:** elephant <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** alien</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
 ### 📷 8268b8eddca3b178265430b8ada9d4d9 
 
 ![data.id](./8268b8eddca3b178265430b8ada9d4d9/8268b8eddca3b178265430b8ada9d4d9.jpg)
@@ -3933,6 +4221,38 @@
 | **Enhanced Prompt** | No                                                                                                                                                                    |
 | **Metadata**   | <ul><li>**Element:** tribe chief <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** Martial landscape <br> **Animal:** giraffe <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic alien</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
 | **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
+
+
+### 📷 3bcb7112b5717e42f11a0f56699ecaf8 
+
+![data.id](./3bcb7112b5717e42f11a0f56699ecaf8/3bcb7112b5717e42f11a0f56699ecaf8.jpg)
+
+| Field          | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Image ID**             | 3bcb7112b5717e42f11a0f56699ecaf8                                                                                                             |
+| **Title**           | Desert Tribe Warrior: Journey Across the Stars                                                                                                       |
+| **Description**           | Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic spaceship                                                                                                       |
+| **CreatedAt**        | 2024-12-15 17:42:34.932034                                                                                                        |
+| **Model**        | stablediffusion                                                                                                        |
+| **OpenAI**         | [OpenAI Image URL](http://192.168.1.85:8081/generated-images/b64569135897.png)                                                                                |
+| **GitHub**         | [GitHub Image URL](https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/3bcb7112b5717e42f11a0f56699ecaf8/3bcb7112b5717e42f11a0f56699ecaf8.jpg)                                                                                |
+| **Tags**       | None                                                                                                                   |
+
+### 📜 4db735681052eaf97c7104e0e7138ead
+
+> Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic spaceship
+
+| Field          | Value                                                                                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prompt ID**  | 4db735681052eaf97c7104e0e7138ead                                                                                                                                                            |
+| **Prompt History** | <ul><li>**Input:**  <br> **Output:**  <br> **Type:** </li></ul> |
+| **Created At** |                                                                                                                                                    |
+| **Revised At** | None                                                                                                                                                   |
+| **Revised Prompt** | No                                                                                                                                                                      |
+| **Enhanced At** | None                                                                                                                                                  |
+| **Enhanced Prompt** | No                                                                                                                                                                    |
+| **Metadata**   | <ul><li>**Element:** desert tribe warrior <br> **Style:** Studio Ghibli <br> **Aspect Ratio:** landscape <br> **Backdrop:** spaceship <br> **Animal:** gnu <br> **Modifiers:**<ul><li>**Image:** full body</li><li>**Element:** futuristic</li><li>**Backdrop:** futuristic</li></ul></li></ul> |
+| **Template**   | Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}                                                                                                                                           |
 
 
 ### 📷 cd78214fb4b3af3bfed15b2025bb2abc 
