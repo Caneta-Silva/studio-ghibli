@@ -1,11 +1,11 @@
 {
     "id": "ae41bafc14b4099a860f5590df3aac48",
-    "title": "Galactic Healer: An Alien Medic in the Style of Studio Ghibli",
+    "title": "Alien Medic in Studio Ghibli Style",
     "description": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
-    "created": "2024-12-04 15:21:13.135756",
+    "created": "2024-12-15 17:40:58.301064",
     "prompt": {
         "prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
-        "id": "07a88671c6168d32c2261e361141efbf",
+        "id": "5faf8552b0bac04de7d065b63a81f150",
         "prompt_history": [
             "Create a landscape full body image of a alien medic in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-02 00:59:05.340789",
+        "seeded_at": "2024-12-02 00:59:05.333281",
         "seed_prompt": "Create a landscape full body image of a alien medic in the style of Studio Ghibli",
         "metadata": {
             "element": "medic",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
-            "backdrop": "fortress",
-            "animal": "deer",
+            "backdrop": "waterfall",
+            "animal": "rhino",
             "modifiers": {
                 "image": "full body",
                 "element": "alien",
-                "backdrop": "alien"
+                "backdrop": "futuristic"
             }
         },
         "template": {
@@ -40,15 +40,15 @@
             "animal": false,
             "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
         },
-        "title": "Galactic Healer: An Alien Medic in the Style of Studio Ghibli"
+        "title": "Alien Medic in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-fAa7nHoiG6uDZeEkSYDD9gbh.png?st=2024-12-04T14%3A21%3A07Z&se=2024-12-04T16%3A21%3A07Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-04T01%3A07%3A51Z&ske=2024-12-05T01%3A07%3A51Z&sks=b&skv=2024-08-04&sig=V73R3ukNaRW655T7%2B3ymTduRjKSbK5Weke5bIB92MQ8%3D",
-        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg?raw=true"
+        "openai": "http://192.168.1.85:8081/generated-images/b64433972409.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg"
     },
     "tags": [],
-    "model_version": "dall-e-2",
-    "name": "Nebula Healer",
+    "model_version": "stablediffusion",
+    "name": "Luna Mendicant",
     "symbol": "AE41BAFC1",
-    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/blob/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg?raw=true"
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/ae41bafc14b4099a860f5590df3aac48/ae41bafc14b4099a860f5590df3aac48.jpg"
 }
