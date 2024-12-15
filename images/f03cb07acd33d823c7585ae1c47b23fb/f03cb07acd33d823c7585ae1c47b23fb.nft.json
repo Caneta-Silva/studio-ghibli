@@ -1,0 +1,77 @@
+{
+    "id": "f03cb07acd33d823c7585ae1c47b23fb",
+    "title": "The Alien Tribe Warrior and the Galactic Gnu in the Enchanted Forest",
+    "description": "Create a landscape full body image of a alien tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic forest",
+    "created": "2024-12-15 14:12:12.920836",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic forest",
+        "id": "95b65ee34223b2acd257ceb222f23a0b",
+        "prompt_history": [
+            "Create a landscape full body image of a alien tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.718010",
+        "seed_prompt": "Create a landscape full body image of a alien tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic forest",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "The Alien Tribe Warrior and the Galactic Gnu in the Enchanted Forest"
+    },
+    "urls": {
+        "openai": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-TZj0gKpq3CiXdXNznVOkBYav/user-t5KW5S6yYiCS0u4yDWasqnEP/img-4skwoPkSk82uwdNHqJEDdnQI.png?st=2024-12-15T13%3A12%3A06Z&se=2024-12-15T15%3A12%3A06Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-15T05%3A07%3A52Z&ske=2024-12-16T05%3A07%3A52Z&sks=b&skv=2024-08-04&sig=qf9%2BvkGoRubGdMMN3z1FRmaHITYcEAj7cqwgqDskx6s%3D",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/f03cb07acd33d823c7585ae1c47b23fb/f03cb07acd33d823c7585ae1c47b23fb.jpg"
+    },
+    "tags": [],
+    "model_version": "dall-e-2",
+    "name": "Astronu Warrior",
+    "symbol": "F03CB07AC",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/f03cb07acd33d823c7585ae1c47b23fb/f03cb07acd33d823c7585ae1c47b23fb.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/f03cb07acd33d823c7585ae1c47b23fb/f03cb07acd33d823c7585ae1c47b23fb.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
