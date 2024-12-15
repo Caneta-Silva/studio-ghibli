@@ -1,0 +1,77 @@
+{
+    "id": "3bcb7112b5717e42f11a0f56699ecaf8",
+    "title": "Desert Tribe Warrior: Journey Across the Stars",
+    "description": "Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic spaceship",
+    "created": "2024-12-15 17:42:34.932034",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic spaceship",
+        "id": "4db735681052eaf97c7104e0e7138ead",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.530101",
+        "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like gnu in the style of Studio Ghibli against the backdrop of a futuristic spaceship",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Desert Tribe Warrior: Journey Across the Stars"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64569135897.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/3bcb7112b5717e42f11a0f56699ecaf8/3bcb7112b5717e42f11a0f56699ecaf8.jpg"
+    },
+    "tags": [],
+    "model_version": "stablediffusion",
+    "name": "GnuWarrior",
+    "symbol": "3BCB7",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/3bcb7112b5717e42f11a0f56699ecaf8/3bcb7112b5717e42f11a0f56699ecaf8.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/3bcb7112b5717e42f11a0f56699ecaf8/3bcb7112b5717e42f11a0f56699ecaf8.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
