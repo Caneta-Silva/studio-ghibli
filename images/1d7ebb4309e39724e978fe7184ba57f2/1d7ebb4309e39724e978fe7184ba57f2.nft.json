@@ -47,5 +47,31 @@
         "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/1d7ebb4309e39724e978fe7184ba57f2/1d7ebb4309e39724e978fe7184ba57f2.jpg"
     },
     "tags": [],
-    "model_version": "stablediffusion"
+    "model_version": "stablediffusion",
+    "name": "AstroHealer",
+    "symbol": "1D7EB",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/1d7ebb4309e39724e978fe7184ba57f2/1d7ebb4309e39724e978fe7184ba57f2.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/1d7ebb4309e39724e978fe7184ba57f2/1d7ebb4309e39724e978fe7184ba57f2.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
 }
