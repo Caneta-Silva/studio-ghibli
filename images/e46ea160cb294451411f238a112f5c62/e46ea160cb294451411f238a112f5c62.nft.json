@@ -47,5 +47,31 @@
         "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
     },
     "tags": [],
-    "model_version": "stablediffusion"
+    "model_version": "stablediffusion",
+    "name": null,
+    "symbol": "E46EA",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
 }
