@@ -1,0 +1,51 @@
+{
+    "id": "7999897108c53c08d0d2bf2f70fe0bb5",
+    "title": "Alien Riot Police Robot: A Ghibli-Inspired Adventure",
+    "description": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli against the backdrop of a alien spaceship",
+    "created": "2024-12-15 17:48:16.024518",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli against the backdrop of a alien spaceship",
+        "id": "7ef9ca92a26dede6ba5e90b6f544fb2f",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli against the backdrop of a alien spaceship"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:05.980291",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli against the backdrop of a alien spaceship",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Riot Police Robot: A Ghibli-Inspired Adventure"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642224062197.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/7999897108c53c08d0d2bf2f70fe0bb5/7999897108c53c08d0d2bf2f70fe0bb5.jpg"
+    },
+    "tags": [],
+    "model_version": "stablediffusion"
+}
