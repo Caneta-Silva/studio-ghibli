@@ -2,10 +2,10 @@
     "id": "e46ea160cb294451411f238a112f5c62",
     "title": "Futuristic Paladin Military in Studio Ghibli Style",
     "description": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-    "created": "2024-12-15 18:10:40.102073",
+    "created": "2024-12-15 18:22:55.328005",
     "prompt": {
         "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
-        "id": "21bdf47bbdf540310c36420d18dc95cf",
+        "id": "51633ae11353512624854348d5f0c64e",
         "prompt_history": [
             "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
         ],
@@ -13,18 +13,18 @@
         "revised_prompt": false,
         "enhanced_at": null,
         "enhanced_prompt": false,
-        "seeded_at": "2024-12-02 00:59:05.033610",
+        "seeded_at": "2024-12-02 00:59:05.038742",
         "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
         "metadata": {
             "element": "paladin style military",
             "style": "Studio Ghibli",
             "aspect_ratio": "landscape",
             "backdrop": "spaceship",
-            "animal": "camel",
+            "animal": "deer",
             "modifiers": {
                 "image": "full body",
                 "element": "futuristic",
-                "backdrop": "futuristic"
+                "backdrop": "alien"
             }
         },
         "template": {
@@ -43,12 +43,12 @@
         "title": "Futuristic Paladin Military in Studio Ghibli Style"
     },
     "urls": {
-        "openai": "http://192.168.1.85:8081/generated-images/b642574079199.png",
+        "openai": "http://192.168.1.85:8081/generated-images/b643939097651.png",
         "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
     },
     "tags": [],
     "model_version": "stablediffusion",
-    "name": null,
+    "name": "Aegis Vanguard",
     "symbol": "E46EA160C",
     "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e46ea160cb294451411f238a112f5c62/e46ea160cb294451411f238a112f5c62.jpg"
 }
