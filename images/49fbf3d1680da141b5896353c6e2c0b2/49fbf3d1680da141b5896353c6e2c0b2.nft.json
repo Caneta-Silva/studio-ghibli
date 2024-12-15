@@ -1,0 +1,77 @@
+{
+    "id": "49fbf3d1680da141b5896353c6e2c0b2",
+    "title": "Futuristic Alien Firefighter and Rhinoceros in Alien Forest",
+    "description": "Create a landscape full body image of a futuristic alien firefighter mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien forest",
+    "created": "2024-12-15 15:53:31.260927",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien firefighter mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien forest",
+        "id": "3393c13b0e1e20ef8c4f9228cdd415fc",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien firefighter mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.978085",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter mounted on an alien like rhino in the style of Studio Ghibli against the backdrop of a futuristic alien forest",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Firefighter and Rhinoceros in Alien Forest"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642288861191.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/49fbf3d1680da141b5896353c6e2c0b2/49fbf3d1680da141b5896353c6e2c0b2.jpg"
+    },
+    "tags": [],
+    "model_version": "stablediffusion",
+    "name": "RhinoGuardian",
+    "symbol": "49FBF",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/49fbf3d1680da141b5896353c6e2c0b2/49fbf3d1680da141b5896353c6e2c0b2.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/49fbf3d1680da141b5896353c6e2c0b2/49fbf3d1680da141b5896353c6e2c0b2.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
