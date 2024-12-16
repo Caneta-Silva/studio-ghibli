@@ -1,0 +1,78 @@
+{
+    "id": "f3b5711833da723825607d8e4763b410",
+    "title": "Futuristic Medic on Alien Giraffe in Ghibli Style",
+    "description": "Futuristic Medic on Alien Giraffe in Ghibli Style",
+    "created": "2024-12-16 17:41:19.477576",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+        "id": "3a81ecce993b8995fbcea5fd78671a67",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.657825",
+        "seed_prompt": "Create a landscape full body image of a futuristic medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic alien Martial landscape",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "name": "",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Medic on Alien Giraffe in Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64545250051.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/f3b5711833da723825607d8e4763b410/f3b5711833da723825607d8e4763b410.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "MedicGiraffeGhibliLandscape",
+    "symbol": "F3B57",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/f3b5711833da723825607d8e4763b410/f3b5711833da723825607d8e4763b410.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/f3b5711833da723825607d8e4763b410/f3b5711833da723825607d8e4763b410.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
