@@ -1,0 +1,40 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic alien medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic fortress",
+    "id": "c30286ee695425ef4a112190b7edb0bd",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic fortress"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:04.984748",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien medic mounted on an alien like giraffe in the style of Studio Ghibli against the backdrop of a futuristic fortress",
+    "metadata": {
+        "element": "medic",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "fortress",
+        "animal": "giraffe",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "name": "",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Futuristic Alien Medic and Giraffe in Studio Ghibli Style"
+}
