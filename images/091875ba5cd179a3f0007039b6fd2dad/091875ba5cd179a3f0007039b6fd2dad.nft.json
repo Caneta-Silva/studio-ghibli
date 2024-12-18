@@ -1,0 +1,78 @@
+{
+    "id": "091875ba5cd179a3f0007039b6fd2dad",
+    "title": "Futuristic Alien Tribe Warrior Riding Alien Camel",
+    "description": "Futuristic Alien Tribe Warrior Riding Alien Camel",
+    "created": "2024-12-18 20:35:29.001471",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe warrior mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a alien fortress",
+        "id": "93c544b88fc7303994c90ca59b4d86dc",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe warrior mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a alien fortress"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.891061",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "name": "",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Tribe Warrior Riding Alien Camel"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b644089148542.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/091875ba5cd179a3f0007039b6fd2dad/091875ba5cd179a3f0007039b6fd2dad.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliAlienWarriorCamel",
+    "symbol": "09187",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/091875ba5cd179a3f0007039b6fd2dad/091875ba5cd179a3f0007039b6fd2dad.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/091875ba5cd179a3f0007039b6fd2dad/091875ba5cd179a3f0007039b6fd2dad.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
