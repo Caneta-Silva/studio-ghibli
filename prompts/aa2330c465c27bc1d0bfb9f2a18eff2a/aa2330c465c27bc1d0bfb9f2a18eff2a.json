@@ -1,0 +1,40 @@
+{
+    "prompt": "Create a landscape full body image of a alien shaman mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a alien Martial landscape",
+    "id": "aa2330c465c27bc1d0bfb9f2a18eff2a",
+    "prompt_history": [
+        "Create a landscape full body image of a alien shaman mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a alien Martial landscape"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-02 00:59:04.753113",
+    "seed_prompt": "Create a landscape full body image of a alien shaman mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a alien Martial landscape",
+    "metadata": {
+        "element": "shaman",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "Martial landscape",
+        "animal": "deer",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": true,
+        "modifiers": {
+            "image": true,
+            "element": true,
+            "backdrop": true
+        },
+        "animal": true,
+        "name": "",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+    },
+    "title": "Alien Shaman and Alien Deer in Ghibli-Inspired Landscape"
+}
