@@ -1,0 +1,78 @@
+{
+    "id": "d4622faaa2a11e65c727f4ad69f8ccd7",
+    "title": "Guardian of the Alien Desert",
+    "description": "Guardian of the Alien Desert",
+    "created": "2024-12-18 18:25:54.914402",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien police mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien desert landscape",
+        "id": "68a1dc742c7679144003d540d64dd66d",
+        "prompt_history": [
+            "Create a landscape full body image of a alien police mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien desert landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:04.792469",
+        "seed_prompt": "Create a landscape full body image of a alien police mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien desert landscape",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert landscape",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "name": "",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Guardian of the Alien Desert"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641550070606.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/d4622faaa2a11e65c727f4ad69f8ccd7/d4622faaa2a11e65c727f4ad69f8ccd7.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Ghibli Alien Patrol",
+    "symbol": "D4622",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/d4622faaa2a11e65c727f4ad69f8ccd7/d4622faaa2a11e65c727f4ad69f8ccd7.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/d4622faaa2a11e65c727f4ad69f8ccd7/d4622faaa2a11e65c727f4ad69f8ccd7.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
