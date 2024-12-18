@@ -1,0 +1,55 @@
+{
+    "id": "d917d93ff13809172e76d45be13b49e1",
+    "title": "Futuristic Alien Shaman in a Studio Ghibli-Inspired Landscape",
+    "description": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli against the backdrop of a alien Martial landscape",
+    "created": "2024-12-18 19:27:26.953723",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli against the backdrop of a alien Martial landscape",
+        "id": "93d79a54410b0b835200123393e435e2",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli against the backdrop of a alien Martial landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-02 00:59:06.042884",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli against the backdrop of a alien Martial landscape",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "name": "",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Alien Shaman in a Studio Ghibli-Inspired Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b644170746590.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/d917d93ff13809172e76d45be13b49e1/d917d93ff13809172e76d45be13b49e1.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "AstroSage Zenith",
+    "symbol": "D917D93FF",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/d917d93ff13809172e76d45be13b49e1/d917d93ff13809172e76d45be13b49e1.jpg"
+}
