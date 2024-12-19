@@ -1,0 +1,52 @@
+{
+    "id": "1e09f43c0b25b64a43ebbf2c875e2ece",
+    "title": "Futuristic Shaman on Giraffe in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic shaman mounted on an giraffe in the style of Studio Ghibli",
+    "created": "2024-12-19 15:26:52.411386",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic shaman mounted on an giraffe in the style of Studio Ghibli",
+        "id": "9fd7709d27aab7084fb171726d9e0d48",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic shaman mounted on an giraffe in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:27.488298",
+        "seed_prompt": "Create a landscape full body image of a futuristic shaman mounted on an giraffe in the style of Studio Ghibli",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "giraffe",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": false
+            },
+            "animal": true,
+            "name": "Mounted Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an {{ animal }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Shaman on Giraffe in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64571993112.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/1e09f43c0b25b64a43ebbf2c875e2ece/1e09f43c0b25b64a43ebbf2c875e2ece.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
