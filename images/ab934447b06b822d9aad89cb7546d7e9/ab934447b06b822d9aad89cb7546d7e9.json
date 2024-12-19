@@ -1,0 +1,52 @@
+{
+    "id": "ab934447b06b822d9aad89cb7546d7e9",
+    "title": "The Galactic Enforcers: A Studio Ghibli-Inspired Creation",
+    "description": "Create a landscape full body image of a alien riot police robot mounted on an gnu in the style of Studio Ghibli",
+    "created": "2024-12-19 16:08:56.238376",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien riot police robot mounted on an gnu in the style of Studio Ghibli",
+        "id": "bf2863e2fae556e98668c8deaa38b0b4",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot mounted on an gnu in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:27.581095",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot mounted on an gnu in the style of Studio Ghibli",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": false
+            },
+            "animal": true,
+            "name": "Mounted Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an {{ animal }} in the style of {{ style }}"
+        },
+        "title": "The Galactic Enforcers: A Studio Ghibli-Inspired Creation"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641297131380.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/ab934447b06b822d9aad89cb7546d7e9/ab934447b06b822d9aad89cb7546d7e9.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
