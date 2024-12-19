@@ -1,0 +1,78 @@
+{
+    "id": "af831899f7716fdbb2c55686ce78713b",
+    "title": "Futuristic Tribe Chief in Alien Forest",
+    "description": "Futuristic Tribe Chief in Alien Forest",
+    "created": "2024-12-19 16:04:06.547076",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli against the backdrop of a alien forest",
+        "id": "1c0636b069581ff967567079e1130ad3",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli against the backdrop of a alien forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:26.904759",
+        "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli against the backdrop of a alien forest",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "name": "Standard Backdrop",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Tribe Chief in Alien Forest"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64900152242.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/af831899f7716fdbb2c55686ce78713b/af831899f7716fdbb2c55686ce78713b.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Futuritribe Chief",
+    "symbol": "AF831",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/af831899f7716fdbb2c55686ce78713b/af831899f7716fdbb2c55686ce78713b.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/af831899f7716fdbb2c55686ce78713b/af831899f7716fdbb2c55686ce78713b.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
