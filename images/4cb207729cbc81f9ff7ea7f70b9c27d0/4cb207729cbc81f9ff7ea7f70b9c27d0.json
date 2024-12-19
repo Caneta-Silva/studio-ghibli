@@ -1,0 +1,52 @@
+{
+    "id": "4cb207729cbc81f9ff7ea7f70b9c27d0",
+    "title": "Desert Nomad: The Warrior of the Alien Tribe",
+    "description": "Create a landscape full body image of a alien desert tribe warrior mounted on an camel in the style of Studio Ghibli",
+    "created": "2024-12-19 17:17:11.123265",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien desert tribe warrior mounted on an camel in the style of Studio Ghibli",
+        "id": "7e5d5eed21aff92a1e62bf0978bf2743",
+        "prompt_history": [
+            "Create a landscape full body image of a alien desert tribe warrior mounted on an camel in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:27.596948",
+        "seed_prompt": "Create a landscape full body image of a alien desert tribe warrior mounted on an camel in the style of Studio Ghibli",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": false
+            },
+            "animal": true,
+            "name": "Mounted Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an {{ animal }} in the style of {{ style }}"
+        },
+        "title": "Desert Nomad: The Warrior of the Alien Tribe"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641427973366.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/4cb207729cbc81f9ff7ea7f70b9c27d0/4cb207729cbc81f9ff7ea7f70b9c27d0.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
