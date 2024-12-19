@@ -1,0 +1,55 @@
+{
+    "id": "4038f98c34fa20c33dc0828074824904",
+    "title": "Futuristic Alien Emperor Riding on a Camel",
+    "description": "Create a landscape full body image of a futuristic alien emperor mounted on an camel in the style of Studio Ghibli",
+    "created": "2024-12-19 15:02:00.139963",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien emperor mounted on an camel in the style of Studio Ghibli",
+        "id": "7e9a1059007bf30b75d52f7795e0038e",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien emperor mounted on an camel in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:27.870149",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien emperor mounted on an camel in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": false
+            },
+            "animal": true,
+            "name": "Mounted Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an {{ animal }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Emperor Riding on a Camel"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643848678128.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/4038f98c34fa20c33dc0828074824904/4038f98c34fa20c33dc0828074824904.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GalactiKhan Rider",
+    "symbol": "4038F98C3",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/4038f98c34fa20c33dc0828074824904/4038f98c34fa20c33dc0828074824904.jpg"
+}
