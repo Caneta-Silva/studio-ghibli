@@ -1,0 +1,52 @@
+{
+    "id": "ec01e719013726848c0fcd9f440ef378",
+    "title": "The Mighty Futuristic Alien Tribe Chief",
+    "description": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien fortress",
+    "created": "2024-12-19 15:24:49.109005",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien fortress",
+        "id": "3bc2b0037cd6d67df98fbdcdc3bd80ab",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien fortress"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:27.239209",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli against the backdrop of a alien fortress",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "name": "Standard Backdrop",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "The Mighty Futuristic Alien Tribe Chief"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641547227112.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/ec01e719013726848c0fcd9f440ef378/ec01e719013726848c0fcd9f440ef378.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
