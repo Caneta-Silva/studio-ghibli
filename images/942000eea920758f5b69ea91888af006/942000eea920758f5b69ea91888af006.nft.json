@@ -1,0 +1,78 @@
+{
+    "id": "942000eea920758f5b69ea91888af006",
+    "title": "Futuristic Desert Tribe Warrior and Alien Camel in Studio Ghibli Style",
+    "description": "Futuristic Desert Tribe Warrior and Alien Camel in Studio Ghibli Style",
+    "created": "2024-12-19 15:52:13.344560",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a futuristic forest",
+        "id": "7615fe22b69578bab5ed8cfd9708a6e5",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a futuristic forest"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:25.490258",
+        "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a futuristic forest",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "name": "Mounted Alien Backdrop",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Desert Tribe Warrior and Alien Camel in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642008153469.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/942000eea920758f5b69ea91888af006/942000eea920758f5b69ea91888af006.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "94200",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/942000eea920758f5b69ea91888af006/942000eea920758f5b69ea91888af006.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/942000eea920758f5b69ea91888af006/942000eea920758f5b69ea91888af006.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
