@@ -1,0 +1,52 @@
+{
+    "id": "132ad955d05b1578f8db66ad56bcf3ac",
+    "title": "Guardian of the Alien Martial Landscape",
+    "description": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien Martial landscape",
+    "created": "2024-12-19 14:47:08.729677",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien Martial landscape",
+        "id": "f1ec97ac1b6e094e4003ab4cbfc18f2d",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien Martial landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:25.475113",
+        "seed_prompt": "Create a landscape full body image of a futuristic riot police robot mounted on an alien like horse in the style of Studio Ghibli against the backdrop of a alien Martial landscape",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "name": "Mounted Alien Backdrop",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Guardian of the Alien Martial Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641577542397.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/132ad955d05b1578f8db66ad56bcf3ac/132ad955d05b1578f8db66ad56bcf3ac.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
