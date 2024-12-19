@@ -1,0 +1,55 @@
+{
+    "id": "97655330cb4b2f0708f948de0def3e87",
+    "title": "Mystical Alien Shaman in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+    "created": "2024-12-19 17:31:06.895489",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+        "id": "66afc5c8364e5c83eb85e24bb7d6b990",
+        "prompt_history": [
+            "Create a landscape full body image of a alien shaman in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:26.565582",
+        "seed_prompt": "Create a landscape full body image of a alien shaman in the style of Studio Ghibli",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Mystical Alien Shaman in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64151519307.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/97655330cb4b2f0708f948de0def3e87/97655330cb4b2f0708f948de0def3e87.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Glimmerwood Sage",
+    "symbol": "97655330C",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/97655330cb4b2f0708f948de0def3e87/97655330cb4b2f0708f948de0def3e87.jpg"
+}
