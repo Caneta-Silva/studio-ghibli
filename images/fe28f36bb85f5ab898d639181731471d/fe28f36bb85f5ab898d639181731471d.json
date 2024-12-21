@@ -1,0 +1,52 @@
+{
+    "id": "fe28f36bb85f5ab898d639181731471d",
+    "title": "The Tribal Chief of Theraan on Their Royal Camel",
+    "description": "Create a landscape full body image of a futuristic alien tribe chief mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a futuristic fortress",
+    "created": "2024-12-21 00:45:48.614290",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe chief mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a futuristic fortress",
+        "id": "f533d801a2a390b52b56d2edd66ec17d",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe chief mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a futuristic fortress"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:26.163666",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief mounted on an alien like camel in the style of Studio Ghibli against the backdrop of a futuristic fortress",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "name": "Mounted Alien Backdrop",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "The Tribal Chief of Theraan on Their Royal Camel"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643949764979.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/fe28f36bb85f5ab898d639181731471d/fe28f36bb85f5ab898d639181731471d.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
