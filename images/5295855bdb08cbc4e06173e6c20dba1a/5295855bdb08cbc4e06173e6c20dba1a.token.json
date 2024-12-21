@@ -1,0 +1,55 @@
+{
+    "id": "5295855bdb08cbc4e06173e6c20dba1a",
+    "title": "Alien Police on Mount Deer: A Studio Ghibli Inspired Landscape",
+    "description": "Create a landscape full body image of a alien police mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+    "created": "2024-12-21 01:03:07.511890",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien police mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+        "id": "4d5d74e4266a69654998e596d2a41154",
+        "prompt_history": [
+            "Create a landscape full body image of a alien police mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien desert"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:25.949567",
+        "seed_prompt": "Create a landscape full body image of a alien police mounted on an alien like deer in the style of Studio Ghibli against the backdrop of a futuristic alien desert",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "name": "Mounted Alien Backdrop",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Alien Police on Mount Deer: A Studio Ghibli Inspired Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642118137172.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/5295855bdb08cbc4e06173e6c20dba1a/5295855bdb08cbc4e06173e6c20dba1a.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Lunar Sentinel",
+    "symbol": "5295855BD",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/5295855bdb08cbc4e06173e6c20dba1a/5295855bdb08cbc4e06173e6c20dba1a.jpg"
+}
