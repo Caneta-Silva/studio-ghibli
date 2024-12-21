@@ -1,0 +1,78 @@
+{
+    "id": "e647282c98a93475fc3ace61ded5ad96",
+    "title": "Futuristic Paladin Military on Alien Elephant in Studio Ghibli Style",
+    "description": "Futuristic Paladin Military on Alien Elephant in Studio Ghibli Style",
+    "created": "2024-12-21 01:11:47.885990",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic alien waterfall",
+        "id": "e95653b197dc78ea948526394e01868d",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic alien waterfall"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:25.466098",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military mounted on an alien like elephant in the style of Studio Ghibli against the backdrop of a futuristic alien waterfall",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": true,
+                "backdrop": true
+            },
+            "animal": true,
+            "name": "Mounted Alien Backdrop",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} mounted on an alien like {{ animal }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Paladin Military on Alien Elephant in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641388078054.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e647282c98a93475fc3ace61ded5ad96/e647282c98a93475fc3ace61ded5ad96.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "E6472",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e647282c98a93475fc3ace61ded5ad96/e647282c98a93475fc3ace61ded5ad96.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e647282c98a93475fc3ace61ded5ad96/e647282c98a93475fc3ace61ded5ad96.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
