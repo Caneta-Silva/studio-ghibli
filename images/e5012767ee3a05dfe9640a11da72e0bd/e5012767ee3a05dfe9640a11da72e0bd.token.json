@@ -1,0 +1,55 @@
+{
+    "id": "e5012767ee3a05dfe9640a11da72e0bd",
+    "title": "The Enforcer of the Galactic Peace",
+    "description": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
+    "created": "2024-12-21 00:57:10.728637",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
+        "id": "16203aacdf9c5fbedf30e4fb4aedc79f",
+        "prompt_history": [
+            "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:26.512098",
+        "seed_prompt": "Create a landscape full body image of a alien riot police robot in the style of Studio Ghibli",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Enforcer of the Galactic Peace"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643124499238.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e5012767ee3a05dfe9640a11da72e0bd/e5012767ee3a05dfe9640a11da72e0bd.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Ghibli Riot Guardian",
+    "symbol": "E5012767E",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/e5012767ee3a05dfe9640a11da72e0bd/e5012767ee3a05dfe9640a11da72e0bd.jpg"
+}
