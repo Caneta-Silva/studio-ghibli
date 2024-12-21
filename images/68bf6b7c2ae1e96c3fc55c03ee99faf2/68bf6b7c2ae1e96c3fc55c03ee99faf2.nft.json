@@ -1,0 +1,78 @@
+{
+    "id": "68bf6b7c2ae1e96c3fc55c03ee99faf2",
+    "title": "Futuristic Shaman in a Martial Landscape",
+    "description": "Futuristic Shaman in a Martial Landscape",
+    "created": "2024-12-21 00:22:51.327523",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli against the backdrop of a futuristic Martial landscape",
+        "id": "58a6b3dd4a948856d00721eda313bf3b",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli against the backdrop of a futuristic Martial landscape"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-15 20:13:26.912074",
+        "seed_prompt": "Create a landscape full body image of a futuristic shaman in the style of Studio Ghibli against the backdrop of a futuristic Martial landscape",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": true,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": true
+            },
+            "animal": false,
+            "name": "Standard Backdrop",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }} against the backdrop of a {{ modifiers.backdrop }} {{ backdrop }}"
+        },
+        "title": "Futuristic Shaman in a Martial Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b644293770726.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/68bf6b7c2ae1e96c3fc55c03ee99faf2/68bf6b7c2ae1e96c3fc55c03ee99faf2.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "68BF6",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/68bf6b7c2ae1e96c3fc55c03ee99faf2/68bf6b7c2ae1e96c3fc55c03ee99faf2.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "studio-ghibli",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/studio-ghibli/refs/heads/main/images/68bf6b7c2ae1e96c3fc55c03ee99faf2/68bf6b7c2ae1e96c3fc55c03ee99faf2.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
